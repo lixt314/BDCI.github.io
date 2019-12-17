@@ -24,15 +24,24 @@ Our paper "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP
 **Work Experiences**
 
 2015.7 - 2019.11 Northeast Normal University, Associate Professor
+
 2015.11 - 2016.11 University of Surrey, Academic Scholar
+
 2017.3 - 2019.4 City University of Hong Kong, Senior Research Associate
+
 2019.12- Now     Jilin University, Professor
 
 **Research Interests**
 
 Computational Intelligence
+
 Multi-Objective Optimization
+
 Bioinformatics 
+
 Machine Learning 
+
 Data Mining
+
 Real-World Applications
+
