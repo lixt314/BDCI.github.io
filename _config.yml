@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Changchun, Jilin"
-title                    : "Xianggtao Li"
+title                    : "Xiangtao Li"
 title_separator          : "-"
-name                     : &name "Xianggtao Li"
+name                     : &name "Xiangtao Li"
 description              : &description "Professor, Jilin University"
 url                      : https://lixt314.github.io/BDCI.github.io// # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
