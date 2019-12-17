@@ -11,8 +11,8 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 
 
-# From 1st December 2019, I will join the School of Artificial Intelligence, Jilin University as a Professor.
-# Each year, one PhD studentship and four Master studentships can be available. If you are interested, please send me an email (lixt314@gmail.com) with your CV. Many thanks!
+**From 1st December 2019, I will join the School of Artificial Intelligence, Jilin University as a Professor.**
+**Each year, one PhD studentship and four Master studentships can be available. If you are interested, please send me an email (lixt314@jlu.edu.cn). Many thanks!**
 
 # 本人现在每年可招收博士研究生一名(2019年底可招生），硕士研究生四名。请感兴趣的同学把简历发到我的邮箱(lixt314@jlu.edu.cn)
 
@@ -21,7 +21,7 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 Our paper "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data" has bee accepted by IEEE Transactions on Cybernetics.
 
-**Work Experiences**
+# Work Experiences
 
 2015.7 - 2019.11 Northeast Normal University, Associate Professor
 2015.11 - 2016.11 University of Surrey, Academic Scholar
