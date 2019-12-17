@@ -248,23 +248,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# 不蒜子网站计数设置
-# https://busuanzi.ibruce.info/
-visit_counter: true
 
-# RevolverMaps统计并使用3D地球可视化访客信息 http://www.revolvermaps.com/
-RevolverMaps: 
-  on: true
-  code: <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5krueszsjxy&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
-  
-# TagCanvas 3D球形标签云 http://www.goat1000.com/tagcanvas.php
-TagCanvas: 
-  on: true
-  path: plugins/TagCanvas/jquery.tagcanvas.min.js
-
-# Display Math(LaTeX, MathML...) | 数学公式支持
-## https://www.mathjax.org/
-mathjax: true
 # Plugins
 gems:
   - jekyll-paginate
