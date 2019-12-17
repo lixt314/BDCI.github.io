@@ -51,7 +51,7 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
+revolvermaps: 5lblqijhm47
 # Social Sharing
 twitter:
   username               : 
@@ -265,7 +265,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-revolvermaps: 5lblqijhm47
+
 
 # Archives
 #  Type
