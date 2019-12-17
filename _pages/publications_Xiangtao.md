@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 
+Publications
 
-1.**X. Li** , K. Wong. Single-Cell RNA-seq Data Interpretation by Evolutionary Multiobjective Clustering, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi.10.1109/TCBB.2019.2906601​, 2019.
 
-2. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, Bioinformatics, 2019, doi. 10.1093/bioinformatics/bty1056.
+
+
+1. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, Bioinformatics, 2019, doi. 10.1093/bioinformatics/bty1056.
+
+2. **X. Li** , K. Wong. Single-Cell RNA-seq Data Interpretation by Evolutionary Multiobjective Clustering, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi.10.1109/TCBB.2019.2906601, 2019.
 
 3. **X. Li**, S. Zhang, K. Wong. Nature-Inspired Multiobjective Epistasis Elucidation from Genome-Wide Association Studies, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi. 10.1109/TCBB.2018.2849759, 2018.
 
