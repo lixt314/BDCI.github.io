@@ -110,7 +110,7 @@ author:
   youtube          :
   wikipedia        : 
 revolvermaps: 5krueszsjxy
-
+markdown: kramdown
 # Reading Files
 include:
   - .htaccess
