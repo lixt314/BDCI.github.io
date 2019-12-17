@@ -109,8 +109,13 @@ author:
   xing             :
   youtube          :
   wikipedia        : 
-revolvermaps: 5krueszsjxy
-markdown: kramdown
+visit_counter: true
+
+# RevolverMaps统计并使用3D地球可视化访客信息 http://www.revolvermaps.com/
+RevolverMaps: 
+  on: true
+  code: <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5krueszsjxy&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+  
 # Reading Files
 include:
   - .htaccess
