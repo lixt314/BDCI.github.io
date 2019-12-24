@@ -5,17 +5,21 @@ permalink: /Professional/
 author_profile: true
 ---
 
-Associate Editor:
+# Associate Editor:
 
 IEEE Access (2017~) (SCI Index, IF=3.244)
 
-Academic Editor:
+
+# Academic Editor:
 
 Scientific Reports (2017~) (SCI Index, IF=4.259)
 
- PLoS One (2017~) (SCI Index, IF=2.806)
+PLoS One (2017~) (SCI Index, IF=2.806)
 
- Special Section:
+Mini-Reviews in Medicinal Chemistry(2019~)  (SCI Index, IF=2.842)
+
+
+# Special Section:
 
 “Evolutionary Deep Learning in Cancer Diagnoses”, Frontiers in Genetics, 2018, Lead Guest Editor
 
@@ -23,7 +27,10 @@ Scientific Reports (2017~) (SCI Index, IF=4.259)
 
 “Evolutionary Multi-objective Optimization for Solving Complex Engineering Problems”, Advances in Mechanical Engineering, 2018, Lead Guest Editor.
 
-Reviewer:
+“Data Science and Modeling in Biology, Health, and Medicine”, CMES: Computer Modeling in Engineering & Sciences, 2019, Guest Editor
+
+
+# Reviewer:
 
 IEEE Transactions on Evolutionary Computation
 
