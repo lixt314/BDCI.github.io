@@ -66,3 +66,5 @@ author_profile: true
 28. **X. Li**, J.N. Wang, M. Yin, Enhancing the performance of cuckoo search algorithm using orthogonal learning method, Neural Computing and Applications, 24(2014)1233-1247
 
 29. **X. Li**, M. Yin, Animal migration optimization: an optimization algorithm inspired by animal migration behavior, Neural Computing and Applications. 24(2014)1867-1877.
+
+30. Ka-Chun, Wong, Jiao, Zhang, Shankai, Yan, **Xiangtao, Li**, Qiuzhen, Lin, Sam, Kwong & Cheng, Liang, DNA Sequencing Technologies: Sequencing Data Protocols and Bioinformatics Tools. ACM Computing Surveys. (Q1)
