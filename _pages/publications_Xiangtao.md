@@ -9,15 +9,15 @@ author_profile: true
 
 
 
-1. **X. Li**, S. Zhang, K. Wong. Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data, IEEE Transactions on Cybernetics, doi.10.1109/TCYB.2019.2960515, 2019
+1. **X. Li**, S. Zhang, K. Wong. Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data, IEEE Transactions on Cybernetics, doi.10.1109/TCYB.2019.2960515, 2019. (Q1)
 
-2. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, Bioinformatics, 2019, doi. 10.1093/bioinformatics/bty1056.
+2. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, Bioinformatics, 2019, doi. 10.1093/bioinformatics/bty1056. (Q1)
 
 3. **X. Li** , K. Wong. Single-Cell RNA-seq Data Interpretation by Evolutionary Multiobjective Clustering, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi.10.1109/TCBB.2019.2906601, 2019.
 
 4. **X. Li**, S. Zhang, K. Wong. Nature-Inspired Multiobjective Epistasis Elucidation from Genome-Wide Association Studies, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi. 10.1109/TCBB.2018.2849759, 2018.
 
-5. **X. Li**, K. Wong. Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification, IEEE Transactions on Cybernetics, doi.10.1109/TCYB.2018.2817480, 2018.
+5. **X. Li**, K. Wong. Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification, IEEE Transactions on Cybernetics, doi.10.1109/TCYB.2018.2817480, 2018. (Q1)
 
 6. **X. Li**, K. Wong. Elucidating Genome-Wide Protein-RNA Interactions using Differential Evolution, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi. 10.1109/TCBB.2017.2776224, 2017.
 
@@ -35,13 +35,13 @@ author_profile: true
 
 13. Y. Wang, B. Liu, Z. Ma, K. Wong, **X. Li*** (corresponding author), Nature-Inspired Multiobjective Cancer Subtype Diagnosis, IEEE Journal of Translational Engineering in Health and Medicine, Accepted, 2019.
 
-14. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, Information Sciences, 2015, 298:80-97.
+14. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, Information Sciences, 2015, 298:80-97. (Q1)
 
 15. **X. Li**, S. Ma, G. Yang, Synthesis of Difference Patterns for Monopulse Antennas by an Improved Cuckoo Search Algorithm, IEEE Antennas and Wireless Propagation Letters, 2016, doi: 10.1109/LAWP.2016.2640998.
 
-16. S. Zhang, **X. Li**, Q. Lin, K.C. Wong, and J. Hancock, Synergizing CRISPR/Cas9 Off-Target Predictions for Ensemble Insights and Practical Applications. Bioinformatics, 2018.
+16. S. Zhang, **X. Li**, Q. Lin, K.C. Wong, and J. Hancock, Synergizing CRISPR/Cas9 Off-Target Predictions for Ensemble Insights and Practical Applications. Bioinformatics, 2018. (Q1)
 
-17. K.C. Wong J. Lin, **X. Li**, Q. Lin; C. Liang, Y. Song, Hterodimeric DNA Motif Synthesis and Validations, Nucleic Acids Research, 2019.
+17. K.C. Wong J. Lin, **X. Li**, Q. Lin; C. Liang, Y. Song, Hterodimeric DNA Motif Synthesis and Validations, Nucleic Acids Research, 2019. (Q1)
 
 18. Wong, K. C., Yan, S., Lin, Q., **X. Li**, & Peng, C. Deleterious Non-Synonymous Single Nucleotide Polymorphism Predictions on Human Transcription Factors. IEEE/ACM transactions on computational biology and bioinformatics. 2019.
 
@@ -51,11 +51,11 @@ author_profile: true
 
 21. **X. Li**, S. Ma, Multi-search Differential Evolution Algorithm, Applied Intelligence, 2016, doi: 10.1007/s10489-016-0885-9
 
-22. **X. Li**, M. Yin, Parameter estimation for chaotic systems by hybrid differential evolution algorithm and artificial bee colony algorithm, Nonlinear Dynamics, 77(2014) 61-71.
+22. **X. Li**, M. Yin, Parameter estimation for chaotic systems by hybrid differential evolution algorithm and artificial bee colony algorithm, Nonlinear Dynamics, 77(2014) 61-71. (Q1)
 
 23. **X. Li**, M. Yin, Multi-operator based Biogeography based Optimization with Mutation for Global Numerical Optimization, Computers and Mathematics with Applications, 64(9)(2012) 2833-2844.
 
-24. **X. Li**, J.Y. Wang, J.P. Zhou, M. Yin, A perturb biogeography based optimization with mutation for global numerical optimization, Applied Mathematics and Computation, 2 011,218(2):598-609.
+24. **X. Li**, J.Y. Wang, J.P. Zhou, M. Yin, A perturb biogeography based optimization with mutation for global numerical optimization, Applied Mathematics and Computation, 2 011,218(2):598-609. (Q1)
 
 25. **X. Li**, M. Yin, An Opposition-Based Differential Evolution Algorithm for Permutation Flow shop Scheduling Based on Diversity Measure, Advances in Engineering Software. 55(2013)10-31.
 
