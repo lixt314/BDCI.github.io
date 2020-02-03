@@ -21,6 +21,9 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 Our paper "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data" has bee accepted by IEEE Transactions on Cybernetics.
 
+Our paper "Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization" has bee accepted by IEEE/ACM Transactions on Computational Biology and Bioinformatics.
+
+
 **Work Experiences**
 
 2015.7 - 2019.11 Northeast Normal University, Associate Professor
