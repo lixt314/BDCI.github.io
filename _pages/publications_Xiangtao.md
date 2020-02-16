@@ -15,7 +15,7 @@ author_profile: true
 
 3. **X. Li**, S. Zhang, K. Wong. Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi. 10.1109/TCBB.2020.2971993, 2020.
 
-4. Y. Wang, Q. Ma, K. Wong, **X. Li (Corresponding Authorship 2020)**. Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2020.
+4. Y. Wang, Q. Ma, K. Wong, **X. Li** (Corresponding Authorship). Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2020.
 
 5. **X. Li**, K. Wong. Single-Cell RNA-seq Data Interpretation by Evolutionary Multiobjective Clustering, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi.10.1109/TCBB.2019.2906601, 2019.
 
@@ -37,7 +37,7 @@ author_profile: true
 
 14. **X. Li**, S. Ma, K. Wong, Evolving Spatial Clusters of Genomic Regions from High-Throughput Chromatin Conformation Capture data, IEEE Transactions on NanoBioscience,16(6) (2017), 400-407.
 
-15. Y. Wang, B. Liu, Z. Ma, K. Wong, **X. Li*** (corresponding author), Nature-Inspired Multiobjective Cancer Subtype Diagnosis, IEEE Journal of Translational Engineering in Health and Medicine, Accepted, 2019.
+15. Y. Wang, B. Liu, Z. Ma, K. Wong, **X. Li** (Corresponding Authorship), Nature-Inspired Multiobjective Cancer Subtype Diagnosis, IEEE Journal of Translational Engineering in Health and Medicine, Accepted, 2019.
 
 16. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, Information Sciences, 2015, 298:80-97. (Q1)
 
