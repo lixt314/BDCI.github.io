@@ -23,6 +23,7 @@ Our paper "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP
 
 Our paper "Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization" has bee accepted by IEEE/ACM Transactions on Computational Biology and Bioinformatics.
 
+Our paper "Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data" has bee accepted by IEEE/ACM Transactions on Computational Biology and Bioinformatics.
 
 **Work Experiences**
 
