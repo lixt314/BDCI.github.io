@@ -15,7 +15,7 @@ author_profile: true
 
 3. **X. Li**, S. Zhang, K. Wong. Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi. 10.1109/TCBB.2020.2971993, 2020.
 
-4. Y. Wang, Q. Ma, K. Wong, **X. Li** (Corresponding Authorship). Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2020.
+4. Y. Wang, Q. Ma, K. Wong, **X. Li** (Corresponding Authorship). Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi.10.1109/TCBB.2020.2974953, 2020.
 
 5. **X. Li**, K. Wong. Single-Cell RNA-seq Data Interpretation by Evolutionary Multiobjective Clustering, IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi.10.1109/TCBB.2019.2906601, 2019.
 
