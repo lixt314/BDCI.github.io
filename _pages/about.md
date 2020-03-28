@@ -19,11 +19,15 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **News!!!**
 
-Our paper "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data" has bee accepted by IEEE Transactions on Cybernetics.
+Our paper "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data" has bee accepted by *IEEE Transactions on Cybernetics*.
 
-Our paper "Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization" has bee accepted by IEEE/ACM Transactions on Computational Biology and Bioinformatics.
+Our paper "Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
 
-Our paper "Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data" has bee accepted by IEEE/ACM Transactions on Computational Biology and Bioinformatics.
+Our paper "Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
+
+Our paper "Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
+
+Our paper "Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data" has bee accepted by *Information Sciences*.
 
 **Work Experiences**
 
