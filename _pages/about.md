@@ -25,8 +25,6 @@ Our paper "Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using 
 
 Our paper "Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
 
-Our paper "Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
-
 Our paper "Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data" has bee accepted by *Information Sciences*.
 
 **Work Experiences**
