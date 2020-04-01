@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-本列表只针对组内建议投稿期刊。
+本列表只针对组内投稿期刊。
 
 
 | Journals                                                     | IF(2019) |
@@ -23,6 +23,7 @@ author_profile: true
 | Evolutionary Computation                                     | 3.469    |
 | Expert Systems with Applications                             | 4.292    |
 | IEEE Computational Intelligence Magazine                     | 5.857    |
+| IEEE Journal of Translational Engineering in Health and Medicine | 2.075 |
 | IEEE Transactions on Biomedical Engineering                  | 4.491    |
 | IEEE Transactions on Circuits and Systems II                 | 3.25     |
 | IEEE Transactions on Cybernetics                             | 10.387   |
@@ -48,9 +49,11 @@ author_profile: true
 | International Journal of Machine Learning and Cybernetics    | 3.844    |
 | Knowledge-Based Systems                                      | 5.101    |
 | Memetic Computing                                            | 2.674    |
+| Nucleic Acids Research                                       | 11.147   |
 | Nonlinear dynamic                                            | 4.604    |
 | Neural Networks                                              | 5.785    |
 | Neurocomputing                                               | 4.072    |
+| Neural Computing and Applications                            | 4.664    |
 | Pattern Recognition                                          | 5.898    |
 | Proceedings of the IEEE                                      | 10.694   |
 | Proceedings of the National Academy of Sciences              | 9.58     |
