@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-本列表只针对组内投稿期刊。
+本列表只针对组内投稿。
 
 
 | Journals                                                     | IF(2019) |
@@ -47,9 +47,7 @@ author_profile: true
 | IEEE Transactions on NanoBioscience                          | 1.9      |
 | IEEE/ACM Transactions on Computational Biology and Bioinformatics | 2.896    |
 | Information Sciences                                         | 5.524    |
-| International Journal of Machine Learning and Cybernetics    | 3.844    |
 | Knowledge-Based Systems                                      | 5.101    |
-| Memetic Computing                                            | 2.674    |
 | Nucleic Acids Research                                       | 11.147   |
 | Nonlinear dynamic                                            | 4.604    |
 | Neural Networks                                              | 5.785    |
