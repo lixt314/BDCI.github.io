@@ -14,6 +14,7 @@ author_profile: true
 | ACM Computing Surveys                                        | 6.131    |
 | ACM Transactions on Intelligent Systems and Technology       | 2.861    |
 | ACM Transactions on Knowledge Discovery from Data            | 2.538    |
+| Applied Intelligence                                         | 2.882    |
 | Applied Soft Computing                                       | 4.873    |
 | Artificial Intelligence                                      | 4.483    |
 | Bioinformatics                                               | 4.531    |
