@@ -14,7 +14,7 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 **From 1st December 2019, I will join the School of Artificial Intelligence, Jilin University as a Professor.**
 **Each year, one PhD studentship and four Master studentships can be available. If you are interested, please send me an email (lixt314@jlu.edu.cn). Many thanks!**
 
-**本人现在每年可招收博士研究生一名(2019年名额已满），硕士研究生四名。请感兴趣的同学把简历发到我的邮箱(lixt314@jlu.edu.cn)**
+**本人现在每年可招收博士研究生一名(2019年可招生两名博士生，目前还缺一名），硕士研究生四名。请感兴趣的同学把简历发到我的邮箱(lixt314@jlu.edu.cn)**
 
 
 **News!!!**
