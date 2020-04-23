@@ -12,9 +12,13 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 
 **From 1st December 2019, I will join the School of Artificial Intelligence, Jilin University as a Professor.**
-**Each year, one PhD studentship and four Master studentships can be available. If you are interested, please send me an email (lixt314@jlu.edu.cn). Many thanks!**
 
-**本人现在每年可招收博士研究生一名(2019年可招生两名博士生，名额已满），硕士研究生四名。请感兴趣的同学把简历发到我的邮箱(lixt314@jlu.edu.cn)**
+**Recruiting: I am always looking for self-motivated Master and PhD students to do cutting edge research on Evolutionary algorithm & Mulitobjective Optimization, Bioinformatics & Machine learning. Each year, one PhD studentship and four Master studentships can be available. If interested, please email your full CV to me for consideration (E-mail: lixt314@jlu.edu.cn).**
+
+**博士和硕士招生说明**：主要研究方向：进化计算，多目标进化，生物信息学及机器学习。本人现在每年可招收博士研究生一名(2019年可招生两名博士生，名额已满），硕士研究生四名。欢迎有志从事科研、勇于挑战、有责任心的同学报考！读研和读博期间表现优秀者，将额外提供科研补贴并优先考虑海内外学术交流(全额资助)。态度和责任心决定高度，效率决定成败！
+
+**特别说明**：发送E-mail(lixt314@jlu.edu.cn)时，**邮件主题**请按照如下格式:**“20XX年博士或硕士导师申请-姓名-硕士与本科学校名称”**，邮件内容需体现个人研究经历、成果、英语水平和预期目标等. 
+
 
 
 **News!!!**
