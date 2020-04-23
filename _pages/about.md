@@ -15,21 +15,21 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **Recruiting: I am always looking for self-motivated Master and PhD students to do cutting edge research on Evolutionary algorithm & Mulitobjective Optimization, Bioinformatics & Machine learning. Each year, one PhD studentship and four Master studentships can be available. If interested, please email your full CV to me for consideration (E-mail: lixt314@jlu.edu.cn).**
 
-$\color{red}{**博士和硕士招生说明**}$：主要研究方向：进化计算，多目标进化，生物信息学及机器学习。本人现在每年可招收博士研究生一名(2019年可招生两名博士生，名额已满），硕士研究生四名。欢迎有志从事科研、勇于挑战、有责任心的同学报考！读研和读博期间表现优秀者，将额外提供科研补贴并优先考虑海内外学术交流(全额资助)。态度和责任心决定高度，效率决定成败！
+**博士和硕士招生说明**：主要研究方向：进化计算，多目标进化，生物信息学及机器学习。本人现在每年可招收博士研究生一名(2019年可招生两名博士生，名额已满），硕士研究生四名。欢迎有志从事科研、勇于挑战、有责任心的同学报考！读研和读博期间表现优秀者，将额外提供科研补贴并优先考虑海内外学术交流(全额资助)。态度和责任心决定高度，效率决定成败！
 
-$\color{red}{**特别说明**}：发送E-mail(lixt314@jlu.edu.cn)时，**邮件主题**请按照如下格式:**“20XX年博士或硕士导师申请-姓名-硕士与本科学校名称”**，邮件内容需体现个人研究经历、成果、英语水平和预期目标等. 
+**特别说明**：发送E-mail(lixt314@jlu.edu.cn)时，**邮件主题**请按照如下格式:**“20XX年博士或硕士导师申请-姓名-硕士与本科学校名称”**，邮件内容需体现个人研究经历、成果、英语水平和预期目标等. 
 
 
 
-$\color{red}{**News!!!**}
+**News!!!**
 
-$\color{blue}{Our paper "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data" has bee accepted by *IEEE Transactions on Cybernetics*.}
+Our paper "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data" has bee accepted by *IEEE Transactions on Cybernetics*.
 
-$\color{blue}{Our paper "Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.}
+Our paper "Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
 
-$\color{blue}{Our paper "Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.}
+Our paper "Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
 
-$\color{blue}{Our paper "Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data" has bee accepted by *Information Sciences*.}
+Our paper "Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data" has bee accepted by *Information Sciences*.
 
 **Work Experiences**
 
