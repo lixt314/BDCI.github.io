@@ -20,15 +20,6 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 **特别说明**：将在48小时内对每位申请学生邮件回复，请勿同时给多个导师发送邮件，否则将从我团队的候选名单中剔除，请谅解。
 
 
-**News!!!**
-
-Our paper "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data" has bee accepted by *IEEE Transactions on Cybernetics*.
-
-Our paper "Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
-
-Our paper "Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data" has bee accepted by *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
-
-Our paper "Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data" has bee accepted by *Information Sciences*.
 
 **Work Experiences**
 
