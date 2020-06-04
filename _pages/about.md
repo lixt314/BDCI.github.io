@@ -15,9 +15,9 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **Recruiting: I am always looking for self-motivated Master and PhD students to do cutting edge research on Evolutionary algorithm & Mulitobjective Optimization, Bioinformatics & Machine learning. Each year, one PhD studentship and four Master studentships can be available. If interested, please email your full CV to me for consideration (E-mail: lixt314@jlu.edu.cn).**
 
-**博士和硕士招生说明**：主要研究方向：进化计算，多目标进化，生物信息学及机器学习。本人现在每年可招收博士研究生一名，硕士研究生四名（2020年缺一名）。欢迎有志从事科研、勇于挑战、有责任心的同学报考！读研和读博期间表现优秀者，将额外提供科研补贴并优先考虑海内外学术交流(全额资助)。态度和责任心决定高度，效率决定成败！
+**博士和硕士招生说明**：主要研究方向：进化计算，多目标进化，生物信息学及机器学习。本人现在每年可招收博士研究生一名，硕士研究生四名。欢迎有志从事科研、勇于挑战、有责任心的同学报考！读研和读博期间表现优秀者，将额外提供科研补贴并优先考虑海内外学术交流(全额资助)。态度和责任心决定高度，效率决定成败！
 
-**特别说明**：将在48小时内对每位申请学生邮件回复，请勿同时给多个导师发送邮件，否则将从我团队的候选名单中剔除，请谅解。
+**特别说明**：2020年硕士名额已满。
 
 
 
