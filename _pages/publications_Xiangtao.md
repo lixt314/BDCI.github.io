@@ -13,15 +13,15 @@ author_profile: true
 
 2. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, *Bioinformatics*, 2019, doi. 10.1093/bioinformatics/bty1056. (Q1)
 
-3. **X. Li**, S. Zhang, K. Wong. Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi. 10.1109/TCBB.2020.2971993, 2020.
+3.  **X. Li**, K. Wong. Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification, *IEEE Transactions on Cybernetics*, doi.10.1109/TCYB.2018.2817480, 2018. (Q1)
 
-4. Y. Wang, Q. Ma, K. Wong, **X. Li** (Corresponding Authorship). Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi.10.1109/TCBB.2020.2974953, 2020.
+4. **X. Li**, S. Zhang, K. Wong. Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi. 10.1109/TCBB.2020.2971993, 2020.
 
-5. **X. Li**, K. Wong. Single-Cell RNA-seq Data Interpretation by Evolutionary Multiobjective Clustering, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi.10.1109/TCBB.2019.2906601, 2019.
+5. Y. Wang, Q. Ma, K. Wong, **X. Li** (Corresponding Authorship). Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi.10.1109/TCBB.2020.2974953, 2020.
 
-6. **X. Li**, S. Zhang, K. Wong. Nature-Inspired Multiobjective Epistasis Elucidation from Genome-Wide Association Studies, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi. 10.1109/TCBB.2018.2849759, 2018.
+6. **X. Li**, K. Wong. Single-Cell RNA-seq Data Interpretation by Evolutionary Multiobjective Clustering, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi.10.1109/TCBB.2019.2906601, 2019.
 
-7. **X. Li**, K. Wong. Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification, *IEEE Transactions on Cybernetics*, doi.10.1109/TCYB.2018.2817480, 2018. (Q1)
+7. **X. Li**, S. Zhang, K. Wong. Nature-Inspired Multiobjective Epistasis Elucidation from Genome-Wide Association Studies, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi. 10.1109/TCBB.2018.2849759, 2018.
 
 8. **X. Li**, K. Wong. Elucidating Genome-Wide Protein-RNA Interactions using Differential Evolution, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi. 10.1109/TCBB.2017.2776224, 2017.
 
