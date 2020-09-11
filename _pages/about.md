@@ -20,6 +20,10 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 **特别说明**：2020年硕士名额已满。
 
 
+**News!!!
+
+**Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=8.9).
+
 
 **Work Experiences**
 
