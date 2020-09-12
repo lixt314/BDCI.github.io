@@ -8,10 +8,7 @@ redirect_from:
 ---
 
 I received the M.Eng, and Ph.D. degrees in computer science from Northeast Normal University (NENU), Jilin, China, in 2012, and 2015, respectively. Currently, I’m a professor in School of Artificial Intelligence, Jilin University, Jilin, China. From 2015/11 to 2016/11, I visited the University of Surrey as an academic visitor. I am now working as senior research associate at the City University of Hong Kong. I am particularly interested in bioinformatics, computational intelligence, and system biology. 
-**
 
-
-**From 1st December 2019, I will join the School of Artificial Intelligence, Jilin University as a Professor.**
 
 **Recruiting: I am always looking for self-motivated Master and PhD students to do cutting edge research on Evolutionary algorithm & Mulitobjective Optimization, Bioinformatics & Machine learning. Each year, one PhD studentship and four Master studentships can be available. If interested, please email your full CV to me for consideration (E-mail: lixt314@jlu.edu.cn).**
 
