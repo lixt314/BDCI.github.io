@@ -19,7 +19,7 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **News!!!**
 
-**Supported by General project of National Natural Science Foundation of China（国家自然科学基金面上项目）.
+**Supported by General project of National Natural Science Foundation of China（国家自然科学基金面上项目）.**
 
 
 **Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=8.99).**
