@@ -9,7 +9,9 @@ author_profile: true
 
 
 
-1. **X. Li**, S. Li, Y. Wang, S. Zhang, K. Wong. Identification of Pan-cancer Ras Pathway Activation with Deep Learning, *Briefings in Bioinformatics*, 2020. (Q1)
+1. Y. Yang, Z. Hou, Z. Ma, **X. Li***, **K. Wong***, iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network,  *Briefings in Bioinformatics*, 2020. (Q1)
+
+**X. Li**, S. Li, Y. Wang, S. Zhang, K. Wong. Identification of Pan-cancer Ras Pathway Activation with Deep Learning, *Briefings in Bioinformatics*, 2020. (Q1)
 
 2. **X. Li**, S. Zhang, K. Wong. Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data, *IEEE Transactions on Cybernetics*, doi.10.1109/TCYB.2019.2960515, 2019. (Q1)
 
