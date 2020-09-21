@@ -18,6 +18,7 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 
 **News!!!**
+
 **Sep 21, 2020: Our paper "iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network" has been accepted in Briefings in Bioinformatics (IF=8.99).**
 
 **Sep 18, 2020: Supported by General Project of National Natural Science Foundation of China（国家自然科学基金面上项目）.**
