@@ -41,7 +41,7 @@ author_profile: true
 
 16. **X. Li**, S. Ma, K. Wong, Evolving Spatial Clusters of Genomic Regions from High-Throughput Chromatin Conformation Capture data, *IEEE Transactions on NanoBioscience*,16(6) (2017), 400-407.
 
-17. Y. Wang, B. Liu, Z. Ma, K. Wong, **X. Li** (Corresponding Authorship), Nature-Inspired Multiobjective Cancer Subtype Diagnosis, *IEEE Journal of Translational Engineering in Health and Medicine*, Accepted, 2019.
+17. Y. Wang, B. Liu, Z. Ma, K. Wong, **X. Li*******, Nature-Inspired Multiobjective Cancer Subtype Diagnosis, *IEEE Journal of Translational Engineering in Health and Medicine*, Accepted, 2019.
 
 18. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, *Information Sciences*, 2015, 298:80-97. (Q1)
 
