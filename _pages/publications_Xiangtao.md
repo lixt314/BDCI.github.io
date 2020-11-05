@@ -51,6 +51,8 @@ author_profile: true
 
 22. K.C. Wong J. Lin, **X. Li**, Q. Lin; C. Liang, Y. Song, Hterodimeric DNA Motif Synthesis and Validations, *Nucleic Acids Research*, 2019. (Q1)
 
+23. Zhang S, **Li X**, Lin Q, Wong KC. Uncovering the key dimensions of high-throughput biomolecular data using deep learning,*Nucleic Acids Research*, 2020. (Q1)
+
 23. Wong, K. C., Yan, S., Lin, Q., **X. Li**, & Peng, C. Deleterious Non-Synonymous Single Nucleotide Polymorphism Predictions on Human Transcription Factors. *IEEE/ACM transactions on computational biology and bioinformatics*. 2019.
 
 24. **X. Li**, M. Yin, Modified Differential Evolution with Self-adaptive Parameters Method, *Journal of Combinatorial Optimization*, 2016, 31(2):546-576.
