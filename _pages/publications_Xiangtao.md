@@ -49,8 +49,6 @@ author_profile: true
 
 20. **X. Li**, S. Ma, G. Yang, Synthesis of Difference Patterns for Monopulse Antennas by an Improved Cuckoo Search Algorithm, *IEEE Antennas and Wireless Propagation Letters*, 2016, doi: 10.1109/LAWP.2016.2640998.
 
-21. S. Zhang, **X. Li**, Q. Lin, K.C. Wong, and J. Hancock, Synergizing CRISPR/Cas9 Off-Target Predictions for Ensemble Insights and Practical Applications. *Bioinformatics*, 2018. (Q1) 
-
 22. K.C. Wong J. Lin, **X. Li**, Q. Lin; C. Liang, Y. Song, Hterodimeric DNA Motif Synthesis and Validations, *Nucleic Acids Research*, 2019. (Q1)
 
 23. Wong, K. C., Yan, S., Lin, Q., **X. Li**, & Peng, C. Deleterious Non-Synonymous Single Nucleotide Polymorphism Predictions on Human Transcription Factors. *IEEE/ACM transactions on computational biology and bioinformatics*. 2019.
