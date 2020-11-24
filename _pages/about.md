@@ -14,16 +14,16 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **博士和硕士招生说明**：主要研究方向：进化计算，多目标进化，生物信息学及机器学习。本人现在每年可招收博士研究生一名，硕士研究生四名。
 
-**特别说明**：2020年硕士名额已满; 2021年还剩三名。
+**特别说明**：2021年硕士名额还剩三名。
 
 
 **News!!!**
 
-**Sep 21, 2020: Our paper "iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network" has been accepted in Briefings in Bioinformatics (IF=8.99).**
+**Our paper "iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network" has been accepted in Briefings in Bioinformatics (IF=8.99).**
 
-**Sep 18, 2020: Supported by General Project of National Natural Science Foundation of China（国家自然科学基金面上项目）.**
+**Supported by General Project of National Natural Science Foundation of China（国家自然科学基金面上项目）.**
 
-**Sep 11, 2020: Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=8.99).**
+**Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=8.99).**
 
 
 **Work Experiences**
