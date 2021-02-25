@@ -5,7 +5,9 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
-1. Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li\***. Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest, *Briefings in Bioinformatics*, 2020. (Q1)
+1. **X. Li**, S. Zhang, K. Wong. Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data, *Briefings in Bioinformatics*, 2021. (Q1)
+
+3. Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li\***. Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest, *Briefings in Bioinformatics*, 2020. (Q1)
 
 1. **X. Li**, S. Li, Y. Wang, S. Zhang, K. Wong. Identification of Pan-cancer Ras Pathway Activation with Deep Learning, *Briefings in Bioinformatics*, 2020. (Q1)
 
