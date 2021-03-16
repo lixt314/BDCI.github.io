@@ -18,6 +18,7 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 
 **News!!!**
+
 **1. Our paper "Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing" has been accepted in Briefings in Bioinformatics (IF=8.99).**
 
 **2. Our paper "Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data" has been accepted in Briefings in Bioinformatics (IF=8.99).**
