@@ -5,7 +5,9 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
-1. **X. Li**, S. Zhang, K. Wong. Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data, *Briefings in Bioinformatics*, 2021. (Q1)
+1. Z. Yu, C. Bian, G. Liu, S. Zhang, K. Wong,  **X. Li**. Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing, *Briefings in Bioinformatics*, 2021. (Q1)
+2. 
+3. **X. Li**, S. Zhang, K. Wong. Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data, *Briefings in Bioinformatics*, 2021. (Q1)
 
 3. Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li\***. Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest, *Briefings in Bioinformatics*, 2020. (Q1)
 
