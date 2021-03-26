@@ -5,6 +5,8 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
+1.Y. Wang,  **X. Li\***, K. Wong, Y. Chang, S. Yang. Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification, *IEEE Transactions on Cybernetics*, 2021. (Q1)
+
 1. Z. Yu, C. Bian, G. Liu, S. Zhang, K. Wong,  **X. Li\***. Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing, *Briefings in Bioinformatics*, 2021. (Q1)
 
 3. **X. Li**, S. Zhang, K. Wong. Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data, *Briefings in Bioinformatics*, 2021. (Q1)
