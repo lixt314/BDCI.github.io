@@ -19,9 +19,9 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **News!!!**
 
-**1. I am pleased to accept the invitation to become an Associate Editor (AE) of Frontiers in Bioinformatics.
+**1. I am pleased to accept the invitation to become an Associate Editor (AE) of Frontiers in Bioinformatics.**
 
-**2. I am pleased to accept the invitation to become a Section Editor (SE) of Current Gene Therapy (IF=2.431).
+**2. I am pleased to accept the invitation to become a Section Editor (SE) of Current Gene Therapy (IF=2.431).**
 
 **3. Our paper "Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification" has been accepted in IEEE Transactions on Cybernetics (IF=11.079).**
 
