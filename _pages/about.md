@@ -14,7 +14,7 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **博士和硕士招生说明**：主要研究方向：进化计算，多目标进化，生物信息学及机器学习。本人现在每年可招收博士研究生一名，硕士研究生四名。
 
-**特别说明**：2021年硕士名额还剩1名。（名额还剩1名，欢迎加入！）
+**特别说明**：2021年硕士名额还剩1名。
 
 
 **News!!!**
