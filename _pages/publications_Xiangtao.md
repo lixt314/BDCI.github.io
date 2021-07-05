@@ -5,6 +5,8 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
+1. Z. Hou, Y. Yang, H. Li, K. Wong, **X. Li\***. iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning, *Briefings in Bioinformatics*, 2021. (Q1)
+
 5. Y. Wang,  **X. Li\***, K. Wong, Y. Chang, S. Yang. Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification, *IEEE Transactions on Cybernetics*, 2021. (Q1)
 
 7. Z. Yu, C. Bian, G. Liu, S. Zhang, K. Wong,  **X. Li\***. Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing, *Briefings in Bioinformatics*, 2021. (Q1)
