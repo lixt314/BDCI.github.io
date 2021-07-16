@@ -20,19 +20,19 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **1. Our paper "iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**2. Our paper "Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification" has been accepted in IEEE Transactions on Cybernetics (IF=11.079).**
+**2. Our paper "Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification" has been accepted in IEEE Transactions on Cybernetics (IF=11.448).**
 
-**3. Our paper "Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing" has been accepted in Briefings in Bioinformatics (IF=8.99).**
+**3. Our paper "Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**4. Our paper "Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data" has been accepted in Briefings in Bioinformatics (IF=8.99).**
+**4. Our paper "Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**5. Our paper "Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest" has been accepted in Briefings in Bioinformatics (IF=8.99).**
+**5. Our paper "Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**6. Our paper "iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network" has been accepted in Briefings in Bioinformatics (IF=8.99).**
+**6. Our paper "iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
 **7. Supported by General Project of National Natural Science Foundation of China（国家自然科学基金面上项目）.**
 
-**8. Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=8.99).**
+**8. Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
 
 **Work Experiences**
