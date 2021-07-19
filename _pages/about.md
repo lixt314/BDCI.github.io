@@ -35,15 +35,6 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 **8. Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
 
-**Work Experiences**
-
-2015.7 - 2019.11 Northeast Normal University, Associate Professor
-
-2015.11 - 2016.11 University of Surrey, Academic Scholar
-
-2017.3 - 2019.4 City University of Hong Kong, Senior Research Associate
-
-2019.12- Now     Jilin University, Professor
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5krueszsjxy&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
