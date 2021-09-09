@@ -18,23 +18,25 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **News!!!**
 
-**1. Our paper "High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
+**1. Our paper "Multiobjective Deep Clustering and Its Applications in Single-cell RNA-seq Data" has been accepted in IEEE Transactions on Systems, Man, and Cybernetics: Systems (IF=13.451).**
 
-**2. Our paper "iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
+**2. Our paper "High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**3. Our paper "Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification" has been accepted in IEEE Transactions on Cybernetics (IF=11.448).**
+**3. Our paper "iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**4. Our paper "Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing" has been accepted in Briefings in Bioinformatics (IF=11.622).**
+**4. Our paper "Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification" has been accepted in IEEE Transactions on Cybernetics (IF=11.448).**
 
-**5. Our paper "Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data" has been accepted in Briefings in Bioinformatics (IF=11.622).**
+**5. Our paper "Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**6. Our paper "Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest" has been accepted in Briefings in Bioinformatics (IF=11.622).**
+**6. Our paper "Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**7. Our paper "iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network" has been accepted in Briefings in Bioinformatics (IF=11.622).**
+**7. Our paper "Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**8. Supported by General Project of National Natural Science Foundation of China（国家自然科学基金面上项目）.**
+**8. Our paper "iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
-**9. Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
+**9. Supported by General Project of National Natural Science Foundation of China（国家自然科学基金面上项目）.**
+
+**10. Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
 
 
 
