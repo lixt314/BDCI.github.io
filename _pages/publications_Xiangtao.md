@@ -5,6 +5,8 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
+1. Y. Wang, C. Bian, K. Wong, **X. Li\***, S. Yang\*. Multiobjective Deep Clustering and Its Applications in Single-cell RNA-seq Data, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2021. (Q1)
+
 1. **X. Li**, S. Li, L. Huang, S. Zhang, K. Wong. High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning, *Briefings in Bioinformatics*, 2021. (Q1)
 
 3. Z. Hou, Y. Yang, H. Li, K. Wong, **X. Li\***. iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning, *Briefings in Bioinformatics*, 2021. (Q1)
