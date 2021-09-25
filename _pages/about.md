@@ -15,30 +15,4 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 **博士和硕士招生说明**：主要研究方向：生物信息学，深度学习，进化计算及其应用。本人现在每年可招收博士研究生一名，硕士研究生四名。
 
 
-
-**News!!!**
-
-**1. Our paper "Multiobjective Deep Clustering and Its Applications in Single-cell RNA-seq Data" has been accepted in IEEE Transactions on Systems, Man, and Cybernetics: Systems (IF=13.451).**
-
-**2. Our paper "High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
-
-**3. Our paper "iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
-
-**4. Our paper "Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification" has been accepted in IEEE Transactions on Cybernetics (IF=11.448).**
-
-**5. Our paper "Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing" has been accepted in Briefings in Bioinformatics (IF=11.622).**
-
-**6. Our paper "Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data" has been accepted in Briefings in Bioinformatics (IF=11.622).**
-
-**7. Our paper "Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest" has been accepted in Briefings in Bioinformatics (IF=11.622).**
-
-**8. Our paper "iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network" has been accepted in Briefings in Bioinformatics (IF=11.622).**
-
-**9. Supported by General Project of National Natural Science Foundation of China（国家自然科学基金面上项目）.**
-
-**10. Our paper "Identification of Pan-cancer Ras Pathway Activation with Deep Learning" has been accepted in Briefings in Bioinformatics (IF=11.622).**
-
-
-
-
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5krueszsjxy&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
