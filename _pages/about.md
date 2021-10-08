@@ -12,7 +12,7 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 
 **Recruiting: I am always looking for self-motivated Master and PhD students to do cutting edge research on Bioinformatics & applied deep learning, Evolutionary algorithm & Unmanned Combat Air Vehicle (UCAV). Each year, one PhD studentship (Only for bioinformatics & applied machine learning) and four Master studentships can be available. If interested, please email your full CV to me for consideration (E-mail: lixt314@jlu.edu.cn).**
 
-**博士和硕士招生说明**：主要研究方向：生物信息学，深度学习，进化计算及其应用。本人现在每年可招收博士研究生一名，硕士研究生四名。
+**博士和硕士招生说明**：主要研究方向：生物信息学，深度学习，进化计算及其应用。本人现在每年可招收博士研究生一名，硕士研究生四名。（2022，2023年入选博士已满，2022年入学硕士还剩一名）
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5krueszsjxy&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
