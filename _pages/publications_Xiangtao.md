@@ -5,37 +5,37 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
-1. Y. Wang, C. Bian, K. Wong, **X. Li\***, S. Yang. Multiobjective Deep Clustering and Its Applications in Single-cell RNA-seq Data, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2021. (IF=13.451, Q1)
+1. Y. Wang, C. Bian, K. Wong, **X. Li\***, S. Yang. Multiobjective Deep Clustering and Its Applications in Single-cell RNA-seq Data, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2021. (**IF=13.451**, Q1)
 
-1. **X. Li**, S. Li, L. Huang, S. Zhang, K. Wong. High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning, *Briefings in Bioinformatics*, 2021. (IF=11.622, Q1)
+1. **X. Li**, S. Li, L. Huang, S. Zhang, K. Wong. High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
 
-3. Z. Hou, Y. Yang, H. Li, K. Wong, **X. Li\***. iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning, *Briefings in Bioinformatics*, 2021. (IF=11.622, Q1)
+3. Z. Hou, Y. Yang, H. Li, K. Wong, **X. Li\***. iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
 
-5. Y. Wang,  **X. Li\***, K. Wong, Y. Chang, S. Yang. Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification, *IEEE Transactions on Cybernetics*, 2021. (IF=11.448, Q1)
+5. Y. Wang,  **X. Li\***, K. Wong, Y. Chang, S. Yang. Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification, *IEEE Transactions on Cybernetics*, 2021. (**IF=11.448**, Q1)
 
-7. Z. Yu, C. Bian, G. Liu, S. Zhang, K. Wong,  **X. Li\***. Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing, *Briefings in Bioinformatics*, 2021. (IF=11.622, Q1)
+7. Z. Yu, C. Bian, G. Liu, S. Zhang, K. Wong,  **X. Li\***. Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
 
-3. **X. Li**, S. Zhang, K. Wong. Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data, *Briefings in Bioinformatics*, 2021. (IF=11.622, Q1)
+3. **X. Li**, S. Zhang, K. Wong. Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
 
 3. Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li\***. Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest, *Briefings in Bioinformatics*, 2020. (IF=11.622, Q1)
 
-23. Zhang S, **Li X**, Lin Q, Wong KC. Uncovering the key dimensions of high-throughput biomolecular data using deep learning,*Nucleic Acids Research*, 2020. (IF=16.971, Q1)
+23. Zhang S, **Li X**, Lin Q, Wong KC. Uncovering the key dimensions of high-throughput biomolecular data using deep learning,*Nucleic Acids Research*, 2020. (**IF=16.971**, Q1)
 
-1. **X. Li**, S. Li, Y. Wang, S. Zhang, K. Wong. Identification of Pan-cancer Ras Pathway Activation with Deep Learning, *Briefings in Bioinformatics*, 2020. (IF=11.622, Q1)
+1. **X. Li**, S. Li, Y. Wang, S. Zhang, K. Wong. Identification of Pan-cancer Ras Pathway Activation with Deep Learning, *Briefings in Bioinformatics*, 2020. (**IF=11.622**, Q1)
 
-2. Y. Yang, Z. Hou, Z. Ma, **X. Li\***, K. Wong\*, iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network, *Briefings in Bioinformatics*, 2020. (IF=11.622, Q1)
+2. Y. Yang, Z. Hou, Z. Ma, **X. Li\***, K. Wong\*, iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network, *Briefings in Bioinformatics*, 2020. (**IF=11.622**, Q1)
 
-22. K.C. Wong J. Lin, **X. Li**, Q. Lin; C. Liang, Y. Song, Hterodimeric DNA Motif Synthesis and Validations, *Nucleic Acids Research*, 2019. (IF=16.971, Q1)
+22. K.C. Wong J. Lin, **X. Li**, Q. Lin; C. Liang, Y. Song, Hterodimeric DNA Motif Synthesis and Validations, *Nucleic Acids Research*, 2019. (**IF=16.971**, Q1)
 
-24. **X. Li**, S. Zhang, K. Wong. Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data, *IEEE Transactions on Cybernetics*, doi.10.1109/TCYB.2019.2960515, 2019. (IF=11.448, Q1)
+24. **X. Li**, S. Zhang, K. Wong. Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data, *IEEE Transactions on Cybernetics*, doi.10.1109/TCYB.2019.2960515, 2019. (**IF=11.448**, Q1)
 
-4.  **X. Li**, K. Wong. Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification, *IEEE Transactions on Cybernetics*, doi.10.1109/TCYB.2018.2817480, 2018. (IF=11.448, Q1)
+4.  **X. Li**, K. Wong. Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification, *IEEE Transactions on Cybernetics*, doi.10.1109/TCYB.2018.2817480, 2018. (**IF=11.448**, Q1)
 
-5. Zhang S, **Li X**, Lin Q and Wong KC. Nature-Inspired Compressed Sensing for Transcriptomic Profiling From Random Composite Measurements.*IEEE Transactions on Cybernetics*, 2019.(IF=11.448, Q1)
+5. Zhang S, **Li X**, Lin Q and Wong KC. Nature-Inspired Compressed Sensing for Transcriptomic Profiling From Random Composite Measurements.*IEEE Transactions on Cybernetics*, 2019.(**IF=11.448**, Q1)
 
-6. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, *Bioinformatics*, 2019, doi. 10.1093/bioinformatics/bty1056. (IF=6.937, Q1)
+6. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, *Bioinformatics*, 2019, doi. 10.1093/bioinformatics/bty1056. (**IF=6.937**, Q1)
 
-7. Zhang S,**Li X**, Lin Q, Wong KC. Synergizing CRISPR/Cas9 Off-Target Predictions for Ensemble Insights and Practical Applications. *Bioinformatics*, 2019, 35 (7): 1108-1115. (IF=6.937,Q1) 
+7. Zhang S,**Li X**, Lin Q, Wong KC. Synergizing CRISPR/Cas9 Off-Target Predictions for Ensemble Insights and Practical Applications. *Bioinformatics*, 2019, 35 (7): 1108-1115. (**IF=6.937**,Q1) 
 
 11. **X. Li**, K. Wong. Multiobjective Patient Stratification using Evolutionary Multiobjective Optimization. *IEEE Journal of Biomedical and Health Informatics*, doi.10.1109/JBHI.2017.2769711, 2017. (Q1)
 
