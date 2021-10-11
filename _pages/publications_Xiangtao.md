@@ -39,9 +39,9 @@ author_profile: true
 
 11. **X. Li**, K. Wong. Multiobjective Patient Stratification using Evolutionary Multiobjective Optimization. *IEEE Journal of Biomedical and Health Informatics*, doi.10.1109/JBHI.2017.2769711, 2017. (Q1)
 
-14. **X. Li**, M. Li, Multiobjective Local Search algorithm based decomposition for Multiobjective Permutation Flowshop Scheduling Problem, *IEEE Transactions on Engineering Management*, 2015, 62(4): 544-557.(IF=6.146, Top journal for Engineering Management)
+14. **X. Li**, M. Li, Multiobjective Local Search algorithm based decomposition for Multiobjective Permutation Flowshop Scheduling Problem, *IEEE Transactions on Engineering Management*, 2015, 62(4): 544-557.(**IF=6.146, Top journal for Engineering Management**)
 
-12. **X. Li**, S. Ma, Multi-objective Discrete Artificial Bee Colony Algorithm for Multi-objective Permutation Flow Shop Scheduling Problem with Sequence Dependent Setup Times, *IEEE Transactions on Engineering Management*, 64(2)(2016): 149-165. (IF=6.146, Top journal for Engineering Management)
+12. **X. Li**, S. Ma, Multi-objective Discrete Artificial Bee Colony Algorithm for Multi-objective Permutation Flow Shop Scheduling Problem with Sequence Dependent Setup Times, *IEEE Transactions on Engineering Management*, 64(2)(2016): 149-165. (**IF=6.146, Top journal for Engineering Management**)
 
 6. **X. Li**, S. Zhang, K. Wong. Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi. 10.1109/TCBB.2020.2971993, 2020.
 
