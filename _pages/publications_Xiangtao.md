@@ -17,7 +17,7 @@ author_profile: true
 
 3. **X. Li**, S. Zhang, K. Wong. Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
 
-3. Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li\***. Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest, *Briefings in Bioinformatics*, 2020. (IF=11.622, Q1)
+3. Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li\***. Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest, *Briefings in Bioinformatics*, 2020. (**IF=11.622**, Q1)
 
 23. Zhang S, **Li X**, Lin Q, Wong KC. Uncovering the key dimensions of high-throughput biomolecular data using deep learning,*Nucleic Acids Research*, 2020. (**IF=16.971**, Q1)
 
