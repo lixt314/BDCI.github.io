@@ -96,6 +96,6 @@ author_profile: true
 
 34. **X. Li**, M. Yin, Animal migration optimization: an optimization algorithm inspired by animal migration behavior, *Neural Computing and Applications*. 24(2014)1867-1877.
 
-35. Y. Wang, S. Li, L. Wang,  **X. Li\***, Cancer Molecular Subtype Classification from Hypervolume-based Discrete Evolutionary Optimization, *Neural Computing and Applications*, 2020, Accepted.
+36. Y. Wang, S. Li, L. Wang,  **X. Li\***, Cancer Molecular Subtype Classification from Hypervolume-based Discrete Evolutionary Optimization, *Neural Computing and Applications*, 2020, Accepted.
 
 36. Ka-Chun, Wong, Jiao, Zhang, Shankai, Yan, **Xiangtao, Li**, Qiuzhen, Lin, Sam, Kwong & Cheng, Liang, DNA Sequencing Technologies: Sequencing Data Protocols and Bioinformatics Tools. *ACM Computing Surveys*. (Q1)
