@@ -5,7 +5,6 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
-
 1. L. Huang, J. Lin, **X. Li\***, L. Song, Z. Zheng, and K. Wong\*, EGFI: Drug-Drug Interaction Extraction and Generation with Fusion of Enriched Entity and Sentence Information, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
 
 3. Y. Wang, C. Bian, K. Wong, **X. Li\***, S. Yang. Multiobjective Deep Clustering and Its Applications in Single-cell RNA-seq Data, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2021. (**IF=13.451**, Q1)
