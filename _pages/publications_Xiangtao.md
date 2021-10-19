@@ -73,6 +73,8 @@ author_profile: true
 
 19. Y. Wang, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data, *Information Sciences*, 2020, Accepted. (Q1)
 
+21. X. Wang, Y. Wang, K. Wong, **X. Li\***, A Self-adaptive Weighted Differential Evolution Approach for Large-scale Feature Selection, *Knowledge-based Systems*, 2021. (Q1)
+
 27. **X. Li**, M. Yin, Parameter estimation for chaotic systems by hybrid differential evolution algorithm and artificial bee colony algorithm, *Nonlinear Dynamics*, 77(2014) 61-71. (Q1)
 
 29. **X. Li**, J.Y. Wang, J.P. Zhou, M. Yin, A perturb biogeography based optimization with mutation for global numerical optimization, *Applied Mathematics and Computation*, 2 011,218(2):598-609. (Q1)
