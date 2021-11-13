@@ -71,11 +71,11 @@ author_profile: true
 
 19. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, *Information Sciences*, 2021.  (**IF=6.795**, Q1)
 
-18. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, *Information Sciences*, 2015, 298:80-97. (Q1) (**IF=6.795**, Q1)
+18. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, *Information Sciences*, 2015, 298:80-97. (**IF=6.795**, Q1)
 
-19. Y. Wang, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data, *Information Sciences*, 2020, Accepted. (Q1) (**IF=6.795**, Q1)
+19. Y. Wang, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data, *Information Sciences*, 2020, Accepted. (**IF=6.795**, Q1)
 
-21. X. Wang, Y. Wang, K. Wong, **X. Li\***, A Self-adaptive Weighted Differential Evolution Approach for Large-scale Feature Selection, *Knowledge-based Systems*, 2021. (Q1) (**IF=8.038**, Q1)
+21. X. Wang, Y. Wang, K. Wong, **X. Li\***, A Self-adaptive Weighted Differential Evolution Approach for Large-scale Feature Selection, *Knowledge-based Systems*, 2021. (**IF=8.038**, Q1)
 
 27. **X. Li**, M. Yin, Parameter estimation for chaotic systems by hybrid differential evolution algorithm and artificial bee colony algorithm, *Nonlinear Dynamics*, 77(2014) 61-71. (Q1)
 
