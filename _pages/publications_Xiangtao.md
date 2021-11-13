@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-1. Y. Wang, Y. Yang, Z. Ma, K. Wong, and **X. Li\***, EDCNN: Identification of Genome-Wide RNA-binding Proteins Using Evolutionary Deep Convolutional Neural Network, *Bioinformatics*, 2021. (**IF=6.937**, Q1)
+19. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, *Information Sciences*, 2021.  (**IF=6.795**, Q1)
+
+21. Y. Wang, Y. Yang, Z. Ma, K. Wong, and **X. Li\***, EDCNN: Identification of Genome-Wide RNA-binding Proteins Using Evolutionary Deep Convolutional Neural Network, *Bioinformatics*, 2021. (**IF=6.937**, Q1)
 
 3. L. Huang, J. Lin, **X. Li\***, L. Song, Z. Zheng, and K. Wong\*, EGFI: Drug-Drug Interaction Extraction and Generation with Fusion of Enriched Entity and Sentence Information, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
 
@@ -69,7 +71,6 @@ author_profile: true
 
 17. Y. Wang, B. Liu, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Cancer Subtype Diagnosis, *IEEE Journal of Translational Engineering in Health and Medicine*, Accepted, 2019.
 
-19. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, *Information Sciences*, 2021.  (**IF=6.795**, Q1)
 
 18. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, *Information Sciences*, 2015, 298:80-97. (**IF=6.795**, Q1)
 
