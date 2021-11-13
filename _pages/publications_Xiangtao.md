@@ -69,6 +69,8 @@ author_profile: true
 
 17. Y. Wang, B. Liu, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Cancer Subtype Diagnosis, *IEEE Journal of Translational Engineering in Health and Medicine*, Accepted, 2019.
 
+19. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, *Information Sciences*, 2021. (Q1)
+
 18. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, *Information Sciences*, 2015, 298:80-97. (Q1)
 
 19. Y. Wang, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data, *Information Sciences*, 2020, Accepted. (Q1)
