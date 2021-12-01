@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 
-19. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, *Information Sciences*, 2021.  (**IF=6.795**, Q1)
+
+1. Y. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li\***, ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations, *Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)*, 2021. (Q1)
+
+
+20. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, *Information Sciences*, 2021.  (**IF=6.795**, Q1)
 
 21. Y. Wang, Y. Yang, Z. Ma, K. Wong, and **X. Li\***, EDCNN: Identification of Genome-Wide RNA-binding Proteins Using Evolutionary Deep Convolutional Neural Network, *Bioinformatics*, 2021. (**IF=6.937**, Q1)
 
