@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-1. Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li\***, ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations, *Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)*, 2021. (Q1)
+1. Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li\***, ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations, *Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)*, 2021. (Q1)
 
 
 20. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, *Information Sciences*, 2021.  (**IF=6.795**, Q1)
