@@ -5,14 +5,13 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
-1. Y. Yang, Z. Hou, Y. Wang, H. Ma, P. Sun, Z. Ma, K. Wong and **X. Li\***, HCRNet: High-throughput circRNA-Binding Event Identification from CLIP-seq Data using Deep Temporal Convolutional Network, *Briefings in Bioinformatics*, 2022. (**IF=11.622**, Q1)
+1. Y. Yang, Z. Hou, Y. Wang, H. Ma, P. Sun, Z. Ma, K. Wong, **X. Li\***, HCRNet: High-throughput circRNA-Binding Event Identification from CLIP-seq Data using Deep Temporal Convolutional Network, *Briefings in Bioinformatics*, 2022. (**IF=11.622**, Q1)
 
 1. Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li\***, ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations, *Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)*, 2021. (Q1)
 
-
 20. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, *Information Sciences*, 2021.  (**IF=6.795**, Q1)
 
-21. Y. Wang, Y. Yang, Z. Ma, K. Wong, and **X. Li\***, EDCNN: Identification of Genome-Wide RNA-binding Proteins Using Evolutionary Deep Convolutional Neural Network, *Bioinformatics*, 2021. (**IF=6.937**, Q1)
+21. Y. Wang, Y. Yang, Z. Ma, K. Wong, **X. Li\***, EDCNN: Identification of Genome-Wide RNA-binding Proteins Using Evolutionary Deep Convolutional Neural Network, *Bioinformatics*, 2021. (**IF=6.937**, Q1)
 
 3. L. Huang, J. Lin, **X. Li\***, L. Song, Z. Zheng, and K. Wong\*, EGFI: Drug-Drug Interaction Extraction and Generation with Fusion of Enriched Entity and Sentence Information, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
 
