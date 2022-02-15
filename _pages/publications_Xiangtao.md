@@ -5,6 +5,7 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
+
 1. M. Toseef, **X. Li\***, K. Wong\*, Reducing healthcare disparities using multiple multiethnic data distributions with fine-tuning of transfer learning, *Briefings in Bioinformatics*, 2022. (**IF=11.622**, Q1)
  
 3. Y. Yang, Z. Hou, Y. Wang, H. Ma, P. Sun, Z. Ma, K. Wong, **X. Li\***, HCRNet: High-throughput circRNA-Binding Event Identification from CLIP-seq Data using Deep Temporal Convolutional Network, *Briefings in Bioinformatics*, 2022. (**IF=11.622**, Q1)
