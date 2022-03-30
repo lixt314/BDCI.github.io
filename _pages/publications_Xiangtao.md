@@ -84,6 +84,8 @@ author_profile: true
 
 21. X. Wang, Y. Wang, K. Wong, **X. Li\***, A Self-adaptive Weighted Differential Evolution Approach for Large-scale Feature Selection, *Knowledge-based Systems*, 2021. (**IF=8.038**, Q1)
 
+23. H. Zhu, Y. Wang., **X. Li\***, UCAV Path Planning for Avoiding Obstacles using Cooperative Co-evolution Spider Monkey Optimization,*Knowledge-based Systems*, 2022. (**IF=8.038**, Q1)
+
 27. **X. Li**, M. Yin, Parameter estimation for chaotic systems by hybrid differential evolution algorithm and artificial bee colony algorithm, *Nonlinear Dynamics*, 77(2014) 61-71. (Q1)
 
 29. **X. Li**, J.Y. Wang, J.P. Zhou, M. Yin, A perturb biogeography based optimization with mutation for global numerical optimization, *Applied Mathematics and Computation*, 2 011,218(2):598-609. (Q1)
