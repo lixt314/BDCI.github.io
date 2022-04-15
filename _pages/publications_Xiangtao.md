@@ -5,6 +5,7 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
+1. F. Lu, Z. Yu, Y. Wang, Z. Ma, K. Wong, **X. Li\***, GMHCC: High-throughput Analysis of Biomolecular Data using Graph-based Multiple Hierarchical Consensus Clustering, *Bioinformatics*, 2022. (**IF=6.937**,Q1) 
 
 1. M. Toseef, **X. Li\***, K. Wong\*, Reducing healthcare disparities using multiple multiethnic data distributions with fine-tuning of transfer learning, *Briefings in Bioinformatics*, 2022. (**IF=11.622**, Q1)
  
