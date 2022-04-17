@@ -87,7 +87,7 @@ author_profile: true
 
 23. H. Zhu, Y. Wang\*, **X. Li\***, UCAV Path Planning for Avoiding Obstacles using Cooperative Co-evolution Spider Monkey Optimization,*Knowledge-based Systems*, 2022. (**IF=8.038**, Q1)
 
-24. C. Bian, H. Gao, Y. Wang\*, Ka-chun Wong, **X. Li\***, scEFSC: Accurate Single-cell RNA-seq Data Analysis via Ensemble Consensus Clustering Based on Multiple Feature Selections, *Computational and Structural Biotechnology Journal*, 2022. (**IF=7.271**)
+24. C. Bian, H. Gao, Y. Wang\*, K. Wong, **X. Li\***, scEFSC: Accurate Single-cell RNA-seq Data Analysis via Ensemble Consensus Clustering Based on Multiple Feature Selections, *Computational and Structural Biotechnology Journal*, 2022. (**IF=7.271**)
 
 27. **X. Li**, M. Yin, Parameter estimation for chaotic systems by hybrid differential evolution algorithm and artificial bee colony algorithm, *Nonlinear Dynamics*, 77(2014) 61-71. (Q1)
 
