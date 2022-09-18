@@ -5,7 +5,9 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
-1. Y. Su, F. Wang, S. Zhang, Y. Liang, K. Wong, **X. Li\***, scWMC: Weighted Matrix Completion-based Imputation of scRNA-seq Data via Prior Subspace Information, *Bioinformatics*, 2022. (**IF=6.931**,Q1) 
+1. Y. Su, H. Zhu, K. Wong, Y. Chang, **X. Li\***, Hyperspectral Image Denoising via Weighted Multidirectional Low-rank Tensor Recovery, *IEEE Transactions on Cybernetics*, 2022. (**IF=19.118**,Q1) 
+
+3. Y. Su, F. Wang, S. Zhang, Y. Liang, K. Wong, **X. Li\***, scWMC: Weighted Matrix Completion-based Imputation of scRNA-seq Data via Prior Subspace Information, *Bioinformatics*, 2022. (**IF=6.931**,Q1) 
 
 1. F. Lu, Z. Yu, Y. Wang, Z. Ma, K. Wong, **X. Li\***, GMHCC: High-throughput Analysis of Biomolecular Data using Graph-based Multiple Hierarchical Consensus Clustering, *Bioinformatics*, 2022. (**IF=6.937**,Q1) 
 
