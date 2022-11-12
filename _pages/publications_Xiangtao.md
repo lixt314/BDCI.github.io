@@ -5,7 +5,7 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
-1. F. Wang, T. Gao, J. Lin, Z. Zheng, L. Huang, M. Toseef, **X. Li\***, K. Wong\*, GILoop: robust chromatin loop calling across multiple sequencing depths on Hi-C data, *iScience*, 2022. (**IF=6.107**, Cell Press)
+1. F. Wang, T. Gao, J. Lin, Z. Zheng, L. Huang, M. Toseef, **X. Li\***, K. Wong\*, GILoop: robust chromatin loop calling across multiple sequencing depths on Hi-C data, *iScience*, 2022. (**IF=6.107**, *Cell Press*)
 
 1. L. Huang, J. Lin, R. Liu, Z. Zhang, L. Meng, X. Chen, **X. Li\***, K. Wong\*, CoaDTI: Multi-modal Co-attention based framework for drug-target interaction annotation, *Briefings in Bioinformatics*, 2022. (**IF=13.994**, Q1)
 
