@@ -8,7 +8,7 @@ author_profile: true
 
 1. Y. Wang, Z. Hou, Y. Yang, K. Wong, **X. Li\***, Genome-wide Identification and Characterization of DNA Enhancers with a Stacked Multivariate Fusion Framework, *PLOS Computational Biology*, 2022. (Q1)
 
-1. Y. Cheng, Y. Su, Z. Yu, Y. Liang, K. Wong, **X. Li\***, Unsupervised Deep Embedded Fusion Representation of Single-cell Transcriptomics, *Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)*, 2022. (Q1)
+1. Y. Cheng, Y. Su, Z. Yu, Y. Liang, K. Wong, **X. Li\***, Unsupervised Deep Embedded Fusion Representation of Single-cell Transcriptomics, *Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)*, 2022. (Q1, **Oral**)
 
 1. F. Wang, T. Gao, J. Lin, Z. Zheng, L. Huang, M. Toseef, **X. Li\***, K. Wong\*, GILoop: robust chromatin loop calling across multiple sequencing depths on Hi-C data, *iScience*, 2022. (**IF=6.107**, *Cell Press*)
 
