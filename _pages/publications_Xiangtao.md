@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications_Xiangtao/ 
 author_profile: true
 ---
-1. Z. Hou, Y. Yang. Z. Ma, K. Wong, **X. Li\***, Learning the Protein Language of Proteome-wide Protein-protein Binding Sites via Explainable Ensemble Deep Learning, *Communications Biology*, 2022. (Q1)
+1. Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li\***, K. Wong\*, Enabling Single-cell Drug Response Annotations from Bulk RNA- seq using SCAD, *Advanced Science*, 2023. (IF= 17.521, Q1)
+
+3. Z. Hou, Y. Yang. Z. Ma, K. Wong, **X. Li\***, Learning the Protein Language of Proteome-wide Protein-protein Binding Sites via Explainable Ensemble Deep Learning, *Communications Biology*, 2022. (Q1)
 
 1. Y. Wang, Z. Hou, Y. Yang, K. Wong, **X. Li\***, Genome-wide Identification and Characterization of DNA Enhancers with a Stacked Multivariate Fusion Framework, *PLOS Computational Biology*, 2022. (Q1)
 
