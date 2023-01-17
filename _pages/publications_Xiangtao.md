@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications_Xiangtao/ 
 author_profile: true
 ---
-1. Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li\***, K. Wong\*, Enabling Single-cell Drug Response Annotations from Bulk RNA- seq using SCAD, *Advanced Science*, 2023. (IF= 17.521, Q1)
+1. Z. Yu, Y. Su, Y. Lu, F. Wang, S. Zhang, Y. Chang, K. Wong\*, **X. Li\***, Topological Identification and Interpretation for Single-cell Gene Regulation Elucidation across Multiple Platforms using scMGCA, *Nature Communications*, 2023. (IF= 17.694, Q1)
+
+2. Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li\***, K. Wong\*, Enabling Single-cell Drug Response Annotations from Bulk RNA- seq using SCAD, *Advanced Science*, 2023. (IF= 17.521, Q1)
 
 3. Z. Hou, Y. Yang. Z. Ma, K. Wong, **X. Li\***, Learning the Protein Language of Proteome-wide Protein-protein Binding Sites via Explainable Ensemble Deep Learning, *Communications Biology*, 2022. (Q1)
 
