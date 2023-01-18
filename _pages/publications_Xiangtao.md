@@ -114,23 +114,10 @@ author_profile: true
 
 24. **X. Li**, M. Yin, Modified Differential Evolution with Self-adaptive Parameters Method, *Journal of Combinatorial Optimization*, 2016, 31(2):546-576.
 
-25. **X. Li**, M. Yin, A particle swarm inspired cuckoo search algorithm for real parameter optimization. *Soft Computing*, 2016, 20(4): 1389-1413.
-
-26. **X. Li**, S. Ma, Multi-search Differential Evolution Algorithm, *Applied Intelligence*, 2016, doi: 10.1007/s10489-016-0885-9
-
 28. **X. Li**, M. Yin, Multi-operator based Biogeography based Optimization with Mutation for Global Numerical Optimization, *Computers and Mathematics with Applications*, 64(9)(2012) 2833-2844.
-
 
 30. **X. Li**, M. Yin, An Opposition-Based Differential Evolution Algorithm for Permutation Flow shop Scheduling Based on Diversity Measure, *Advances in Engineering Software*. 55(2013)10-31.
 
 31. **X. Li**, M. Yin, A Hybrid Cuckoo Search via Lévy Flights for Permutation Flow shop Scheduling Problem. *International Journal of Production Research*, 51(16)(2013):4732-4754.
-
-32. **X. Li**, M. Yin, Self adaptive constrained Artificial Bee Colony for constrained numerical optimization, *Neural Computing and Applications*. 24(2014):723-734.
-
-33. **X. Li**, J.N. Wang, M. Yin, Enhancing the performance of cuckoo search algorithm using orthogonal learning method, *Neural Computing and Applications*, 24(2014)1233-1247
-
-34. **X. Li**, M. Yin, Animal migration optimization: an optimization algorithm inspired by animal migration behavior, *Neural Computing and Applications*. 24(2014)1867-1877.
-
-36. Y. Wang, S. Li, L. Wang,  **X. Li\***, Cancer Molecular Subtype Classification from Hypervolume-based Discrete Evolutionary Optimization, *Neural Computing and Applications*, 2020, Accepted.
 
 36. Ka-Chun, Wong, Jiao, Zhang, Shankai, Yan, **Xiangtao, Li**, Qiuzhen, Lin, Sam, Kwong & Cheng, Liang, DNA Sequencing Technologies: Sequencing Data Protocols and Bioinformatics Tools. *ACM Computing Surveys*. (Q1)
