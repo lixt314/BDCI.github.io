@@ -4,67 +4,67 @@ title: "Publications"
 permalink: /publications_Xiangtao/ 
 author_profile: true
 ---
-1. Z. Yu, Y. Su, Y. Lu, F. Wang, S. Zhang, Y. Chang, K. Wong\*, **X. Li\***, Topological Identification and Interpretation for Single-cell Gene Regulation Elucidation across Multiple Platforms using scMGCA, *Nature Communications*, 2023. (IF= 17.694, Q1)
+1. Z. Yu, Y. Su, Y. Lu, F. Wang, S. Zhang, Y. Chang, K. Wong\*, **X. Li\***, Topological Identification and Interpretation for Single-cell Gene Regulation Elucidation across Multiple Platforms using scMGCA, **Nature Communications**, 2023. (IF= 17.694, Q1)
 
-2. Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li\***, K. Wong\*, Enabling Single-cell Drug Response Annotations from Bulk RNA- seq using SCAD, *Advanced Science*, 2023. (IF= 17.521, Q1)
+2. Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li\***, K. Wong\*, Enabling Single-cell Drug Response Annotations from Bulk RNA- seq using SCAD, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
-3. Z. Hou, Y. Yang. Z. Ma, K. Wong, **X. Li\***, Learning the Protein Language of Proteome-wide Protein-protein Binding Sites via Explainable Ensemble Deep Learning, *Communications Biology*, 2022. (Q1)
+3. Z. Hou, Y. Yang. Z. Ma, K. Wong, **X. Li\***, Learning the Protein Language of Proteome-wide Protein-protein Binding Sites via Explainable Ensemble Deep Learning, **Communications Biology**, 2022. (Q1)
 
-1. Y. Wang, Z. Hou, Y. Yang, K. Wong, **X. Li\***, Genome-wide Identification and Characterization of DNA Enhancers with a Stacked Multivariate Fusion Framework, *PLOS Computational Biology*, 2022. (Q1)
+1. Y. Wang, Z. Hou, Y. Yang, K. Wong, **X. Li\***, Genome-wide Identification and Characterization of DNA Enhancers with a Stacked Multivariate Fusion Framework, **PLOS Computational Biology**, 2022. (Q1)
 
-1. Y. Cheng, Y. Su, Z. Yu, Y. Liang, K. Wong, **X. Li\***, Unsupervised Deep Embedded Fusion Representation of Single-cell Transcriptomics, *Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)*, 2022. (Q1, **Oral**)
+1. Y. Cheng, Y. Su, Z. Yu, Y. Liang, K. Wong, **X. Li\***, Unsupervised Deep Embedded Fusion Representation of Single-cell Transcriptomics, **Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)**, 2022. (Q1, **Oral**)
 
-1. F. Wang, T. Gao, J. Lin, Z. Zheng, L. Huang, M. Toseef, **X. Li\***, K. Wong\*, GILoop: robust chromatin loop calling across multiple sequencing depths on Hi-C data, *iScience*, 2022. (**IF=6.107**, *Cell Press*)
+1. F. Wang, T. Gao, J. Lin, Z. Zheng, L. Huang, M. Toseef, **X. Li\***, K. Wong\*, GILoop: robust chromatin loop calling across multiple sequencing depths on Hi-C data, **iScience**, 2022. (**IF=6.107**, *Cell Press*)
 
-1. L. Huang, J. Lin, R. Liu, Z. Zhang, L. Meng, X. Chen, **X. Li\***, K. Wong\*, CoaDTI: Multi-modal Co-attention based framework for drug-target interaction annotation, *Briefings in Bioinformatics*, 2022. (**IF=13.994**, Q1)
+1. L. Huang, J. Lin, R. Liu, Z. Zhang, L. Meng, X. Chen, **X. Li\***, K. Wong\*, CoaDTI: Multi-modal Co-attention based framework for drug-target interaction annotation, **Briefings in Bioinformatics**, 2022. (**IF=13.994**, Q1)
 
-1. Y. Su, H. Zhu, K. Wong, Y. Chang, **X. Li\***, Hyperspectral Image Denoising via Weighted Multidirectional Low-rank Tensor Recovery, *IEEE Transactions on Cybernetics*, 2022. (**IF=19.118**,Q1) 
+1. Y. Su, H. Zhu, K. Wong, Y. Chang, **X. Li\***, Hyperspectral Image Denoising via Weighted Multidirectional Low-rank Tensor Recovery, **IEEE Transactions on Cybernetics**, 2022. (**IF=19.118**,Q1) 
 
-3. Y. Su, F. Wang, S. Zhang, Y. Liang, K. Wong, **X. Li\***, scWMC: Weighted Matrix Completion-based Imputation of scRNA-seq Data via Prior Subspace Information, *Bioinformatics*, 2022. (**IF=6.931**,Q1) 
+3. Y. Su, F. Wang, S. Zhang, Y. Liang, K. Wong, **X. Li\***, scWMC: Weighted Matrix Completion-based Imputation of scRNA-seq Data via Prior Subspace Information, **Bioinformatics**, 2022. (**IF=6.931**,Q1) 
 
-1. F. Lu, Z. Yu, Y. Wang, Z. Ma, K. Wong, **X. Li\***, GMHCC: High-throughput Analysis of Biomolecular Data using Graph-based Multiple Hierarchical Consensus Clustering, *Bioinformatics*, 2022. (**IF=6.937**,Q1) 
+1. F. Lu, Z. Yu, Y. Wang, Z. Ma, K. Wong, **X. Li\***, GMHCC: High-throughput Analysis of Biomolecular Data using Graph-based Multiple Hierarchical Consensus Clustering, **Bioinformatics**, 2022. (**IF=6.937**,Q1) 
 
-1. M. Toseef, **X. Li\***, K. Wong\*, Reducing healthcare disparities using multiple multiethnic data distributions with fine-tuning of transfer learning, *Briefings in Bioinformatics*, 2022. (**IF=11.622**, Q1)
+1. M. Toseef, **X. Li\***, K. Wong\*, Reducing healthcare disparities using multiple multiethnic data distributions with fine-tuning of transfer learning, **Briefings in Bioinformatics**, 2022. (**IF=11.622**, Q1)
  
-3. Y. Yang, Z. Hou, Y. Wang, H. Ma, P. Sun, Z. Ma, K. Wong, **X. Li\***, HCRNet: High-throughput circRNA-Binding Event Identification from CLIP-seq Data using Deep Temporal Convolutional Network, *Briefings in Bioinformatics*, 2022. (**IF=11.622**, Q1)
+3. Y. Yang, Z. Hou, Y. Wang, H. Ma, P. Sun, Z. Ma, K. Wong, **X. Li\***, HCRNet: High-throughput circRNA-Binding Event Identification from CLIP-seq Data using Deep Temporal Convolutional Network, **Briefings in Bioinformatics**, 2022. (**IF=11.622**, Q1)
 
-1. Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li\***, ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations, *Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)*, 2021. (Q1, **Oral**)
+1. Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li\***, ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations, **Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)**, 2021. (Q1, **Oral**)
 
-20. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, *Information Sciences*, 2021.  (**IF=6.795**, Q1)
+20. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, **Information Sciences**, 2021.  (**IF=6.795**, Q1)
 
-21. Y. Wang, Y. Yang, Z. Ma, K. Wong, **X. Li\***, EDCNN: Identification of Genome-Wide RNA-binding Proteins Using Evolutionary Deep Convolutional Neural Network, *Bioinformatics*, 2021. (**IF=6.937**, Q1)
+21. Y. Wang, Y. Yang, Z. Ma, K. Wong, **X. Li\***, EDCNN: Identification of Genome-Wide RNA-binding Proteins Using Evolutionary Deep Convolutional Neural Network, **Bioinformatics**, 2021. (**IF=6.937**, Q1)
 
-3. L. Huang, J. Lin, **X. Li\***, L. Song, Z. Zheng, and K. Wong\*, EGFI: Drug-Drug Interaction Extraction and Generation with Fusion of Enriched Entity and Sentence Information, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
+3. L. Huang, J. Lin, **X. Li\***, L. Song, Z. Zheng, and K. Wong\*, EGFI: Drug-Drug Interaction Extraction and Generation with Fusion of Enriched Entity and Sentence Information, **Briefings in Bioinformatics**, 2021. (**IF=11.622**, Q1)
 
-3. Y. Wang, C. Bian, K. Wong, **X. Li\***, S. Yang. Multiobjective Deep Clustering and Its Applications in Single-cell RNA-seq Data, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2021. (**IF=13.451**, Q1)
+3. Y. Wang, C. Bian, K. Wong, **X. Li\***, S. Yang. Multiobjective Deep Clustering and Its Applications in Single-cell RNA-seq Data, **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 2021. (**IF=13.451**, Q1)
 
-1. **X. Li**, S. Li, L. Huang, S. Zhang, K. Wong. High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
+1. **X. Li**, S. Li, L. Huang, S. Zhang, K. Wong. High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning, **Briefings in Bioinformatics**, 2021. (**IF=11.622**, Q1)
 
-3. Z. Hou, Y. Yang, H. Li, K. Wong, **X. Li\***. iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
+3. Z. Hou, Y. Yang, H. Li, K. Wong, **X. Li\***. iDeepSubMito: Identification of protein sub-mitochondrial localization with deep learning, **Briefings in Bioinformatics**, 2021. (**IF=11.622**, Q1)
 
-5. Y. Wang,  **X. Li\***, K. Wong, Y. Chang, S. Yang. Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification, *IEEE Transactions on Cybernetics*, 2021. (**IF=11.448**, Q1)
+5. Y. Wang,  **X. Li\***, K. Wong, Y. Chang, S. Yang. Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification, **IEEE Transactions on Cybernetics**, 2021. (**IF=11.448**, Q1)
 
-7. Z. Yu, C. Bian, G. Liu, S. Zhang, K. Wong,  **X. Li\***. Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
+7. Z. Yu, C. Bian, G. Liu, S. Zhang, K. Wong,  **X. Li\***. Elucidating Transcriptomic Profiles from Single-cell RNA sequencing Data using Nature-Inspired Compressed Sensing, **Briefings in Bioinformatics**, 2021. (**IF=11.622**, Q1)
 
-3. **X. Li**, S. Zhang, K. Wong. Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data, *Briefings in Bioinformatics*, 2021. (**IF=11.622**, Q1)
+3. **X. Li**, S. Zhang, K. Wong. Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data, **Briefings in Bioinformatics**, 2021. (**IF=11.622**, Q1)
 
-3. Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li\***. Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest, *Briefings in Bioinformatics*, 2020. (**IF=11.622**, Q1)
+3. Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li\***. Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest, **Briefings in Bioinformatics**, 2020. (**IF=11.622**, Q1)
 
-23. Zhang S, **Li X**, Lin Q, Wong KC. Uncovering the key dimensions of high-throughput biomolecular data using deep learning,*Nucleic Acids Research*, 2020. (**IF=16.971**, Q1)
+23. Zhang S, **Li X**, Lin Q, Wong KC. Uncovering the key dimensions of high-throughput biomolecular data using deep learning,**Nucleic Acids Research**, 2020. (**IF=16.971**, Q1)
 
-1. **X. Li**, S. Li, Y. Wang, S. Zhang, K. Wong. Identification of Pan-cancer Ras Pathway Activation with Deep Learning, *Briefings in Bioinformatics*, 2020. (**IF=11.622**, Q1)
+1. **X. Li**, S. Li, Y. Wang, S. Zhang, K. Wong. Identification of Pan-cancer Ras Pathway Activation with Deep Learning, **Briefings in Bioinformatics**, 2020. (**IF=11.622**, Q1)
 
-2. Y. Yang, Z. Hou, Z. Ma, **X. Li\***, K. Wong\*, iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network, *Briefings in Bioinformatics*, 2020. (**IF=11.622**, Q1)
+2. Y. Yang, Z. Hou, Z. Ma, **X. Li\***, K. Wong\*, iCircRBP-DHN: identification of circRNA-RBP interaction sites using deep hierarchical network, **Briefings in Bioinformatics**, 2020. (**IF=11.622**, Q1)
 
-22. K.C. Wong J. Lin, **X. Li**, Q. Lin; C. Liang, Y. Song, Hterodimeric DNA Motif Synthesis and Validations, *Nucleic Acids Research*, 2019. (**IF=16.971**, Q1)
+22. K.C. Wong J. Lin, **X. Li**, Q. Lin; C. Liang, Y. Song, Hterodimeric DNA Motif Synthesis and Validations, **Nucleic Acids Research**, 2019. (**IF=16.971**, Q1)
 
-24. **X. Li**, S. Zhang, K. Wong. Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data, *IEEE Transactions on Cybernetics*, doi.10.1109/TCYB.2019.2960515, 2019. (**IF=11.448**, Q1)
+24. **X. Li**, S. Zhang, K. Wong. Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data, **IEEE Transactions on Cybernetics**, doi.10.1109/TCYB.2019.2960515, 2019. (**IF=11.448**, Q1)
 
-4.  **X. Li**, K. Wong. Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification, *IEEE Transactions on Cybernetics*, doi.10.1109/TCYB.2018.2817480, 2018. (**IF=11.448**, Q1)
+4.  **X. Li**, K. Wong. Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification, **IEEE Transactions on Cybernetics**, doi.10.1109/TCYB.2018.2817480, 2018. (**IF=11.448**, Q1)
 
-5. Zhang S, **Li X**, Lin Q and Wong KC. Nature-Inspired Compressed Sensing for Transcriptomic Profiling From Random Composite Measurements.*IEEE Transactions on Cybernetics*, 2019.(**IF=11.448**, Q1)
+5. Zhang S, **Li X**, Lin Q and Wong KC. Nature-Inspired Compressed Sensing for Transcriptomic Profiling From Random Composite Measurements.**IEEE Transactions on Cybernetics**, 2019.(**IF=11.448**, Q1)
 
-6. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, *Bioinformatics*, 2019, doi. 10.1093/bioinformatics/bty1056. (**IF=6.937**, Q1)
+6. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, **Bioinformatics**, 2019, doi. 10.1093/bioinformatics/bty1056. (**IF=6.937**, Q1)
 
 7. Zhang S,**Li X**, Lin Q, Wong KC. Synergizing CRISPR/Cas9 Off-Target Predictions for Ensemble Insights and Practical Applications. *Bioinformatics*, 2019, 35 (7): 1108-1115. (**IF=6.937**,Q1) 
 
