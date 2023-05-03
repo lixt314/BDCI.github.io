@@ -68,41 +68,41 @@ author_profile: true
 
 6. **X. Li**, S. Zhang, K. Wong. Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning, **Bioinformatics**, 2019, doi. 10.1093/bioinformatics/bty1056. (**IF=6.937**, Q1)
 
-7. Zhang S,**Li X**, Lin Q, Wong KC. Synergizing CRISPR/Cas9 Off-Target Predictions for Ensemble Insights and Practical Applications. *Bioinformatics*, 2019, 35 (7): 1108-1115. (**IF=6.937**,Q1) 
+7. Zhang S,**Li X**, Lin Q, Wong KC. Synergizing CRISPR/Cas9 Off-Target Predictions for Ensemble Insights and Practical Applications. **Bioinformatics**, 2019, 35 (7): 1108-1115. (**IF=6.937**,Q1) 
 
-11. **X. Li**, K. Wong. Multiobjective Patient Stratification using Evolutionary Multiobjective Optimization. *IEEE Journal of Biomedical and Health Informatics*, doi.10.1109/JBHI.2017.2769711, 2017. (Q1)
+11. **X. Li**, K. Wong. Multiobjective Patient Stratification using Evolutionary Multiobjective Optimization. **IEEE Journal of Biomedical and Health Informatics**, doi.10.1109/JBHI.2017.2769711, 2017. (Q1)
 
-14. **X. Li**, M. Li, Multiobjective Local Search algorithm based decomposition for Multiobjective Permutation Flowshop Scheduling Problem, *IEEE Transactions on Engineering Management*, 2015, 62(4): 544-557.(**IF=6.146, Top journal for Engineering Management**)
+14. **X. Li**, M. Li, Multiobjective Local Search algorithm based decomposition for Multiobjective Permutation Flowshop Scheduling Problem, **IEEE Transactions on Engineering Management**, 2015, 62(4): 544-557.(**IF=6.146, Top journal for Engineering Management**)
 
-12. **X. Li**, S. Ma, Multi-objective Discrete Artificial Bee Colony Algorithm for Multi-objective Permutation Flow Shop Scheduling Problem with Sequence Dependent Setup Times, *IEEE Transactions on Engineering Management*, 64(2)(2016): 149-165. (**IF=6.146, Top journal for Engineering Management**)
+12. **X. Li**, S. Ma, Multi-objective Discrete Artificial Bee Colony Algorithm for Multi-objective Permutation Flow Shop Scheduling Problem with Sequence Dependent Setup Times, **IEEE Transactions on Engineering Management**, 64(2)(2016): 149-165. (**IF=6.146, Top journal for Engineering Management**)
 
-6. **X. Li**, S. Zhang, K. Wong. Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi. 10.1109/TCBB.2020.2971993, 2020.
+6. **X. Li**, S. Zhang, K. Wong. Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, doi. 10.1109/TCBB.2020.2971993, 2020.
 
-7. Y. Wang, Q. Ma, K. Wong, **X. Li\***. Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi.10.1109/TCBB.2020.2974953, 2020.
+7. Y. Wang, Q. Ma, K. Wong, **X. Li\***. Evolving Multiobjective Cancer Subtype Diagnosis from Cancer Gene Expression Data, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, doi.10.1109/TCBB.2020.2974953, 2020.
 
-8. **X. Li**, K. Wong. Single-Cell RNA-seq Data Interpretation by Evolutionary Multiobjective Clustering, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi.10.1109/TCBB.2019.2906601, 2019.
+8. **X. Li**, K. Wong. Single-Cell RNA-seq Data Interpretation by Evolutionary Multiobjective Clustering, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, doi.10.1109/TCBB.2019.2906601, 2019.
 
-9. **X. Li**, S. Zhang, K. Wong. Nature-Inspired Multiobjective Epistasis Elucidation from Genome-Wide Association Studies, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi. 10.1109/TCBB.2018.2849759, 2018.
+9. **X. Li**, S. Zhang, K. Wong. Nature-Inspired Multiobjective Epistasis Elucidation from Genome-Wide Association Studies, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, doi. 10.1109/TCBB.2018.2849759, 2018.
 
-10. **X. Li**, K. Wong. Elucidating Genome-Wide Protein-RNA Interactions using Differential Evolution, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi. 10.1109/TCBB.2017.2776224, 2017.
-
-
-15. **X. Li**, K. Wong, A Comparative Study for Identifying the Chromosome-Wide Spatial Clusters from High-Throughput Chromatin Conformation Capture data, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, doi: 10.1109/TCBB.2017.2684800, 2017.
-
-23. Wong, K. C., Yan, S., Lin, Q., **X. Li**, & Peng, C. Deleterious Non-Synonymous Single Nucleotide Polymorphism Predictions on Human Transcription Factors. *IEEE/ACM transactions on computational biology and bioinformatics*. 2019.
-
-13. **X. Li**, M. Yin, Multiobjective Binary Biogeography based Optimization based Feature Selection for Gene Expression Data, *IEEE Transactions on NanoBioscience*, 12 (4) (2013): 343- 353.
-
-16. **X. Li**, S. Ma, K. Wong, Evolving Spatial Clusters of Genomic Regions from High-Throughput Chromatin Conformation Capture data, *IEEE Transactions on NanoBioscience*,16(6) (2017), 400-407.
-
-17. Y. Wang, B. Liu, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Cancer Subtype Diagnosis, *IEEE Journal of Translational Engineering in Health and Medicine*, Accepted, 2019.
+10. **X. Li**, K. Wong. Elucidating Genome-Wide Protein-RNA Interactions using Differential Evolution, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, doi. 10.1109/TCBB.2017.2776224, 2017.
 
 
-18. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, *Information Sciences*, 2015, 298:80-97. (**IF=6.795**, Q1)
+15. **X. Li**, K. Wong, A Comparative Study for Identifying the Chromosome-Wide Spatial Clusters from High-Throughput Chromatin Conformation Capture data, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, doi: 10.1109/TCBB.2017.2684800, 2017.
 
-19. Y. Wang, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data, *Information Sciences*, 2020, Accepted. (**IF=6.795**, Q1)
+23. Wong, K. C., Yan, S., Lin, Q., **X. Li**, & Peng, C. Deleterious Non-Synonymous Single Nucleotide Polymorphism Predictions on Human Transcription Factors. **IEEE/ACM transactions on computational biology and bioinformatics**. 2019.
 
-20. T. Ma, Y. Wang\*, **X. Li\***, Convex Combination Multiple Populations Competitive Swarm Optimization for moving target search using UAVs, *Information Sciences*, 2023, Accepted. (**IF=8.233**, Q1)
+13. **X. Li**, M. Yin, Multiobjective Binary Biogeography based Optimization based Feature Selection for Gene Expression Data, **IEEE Transactions on NanoBioscience**, 12 (4) (2013): 343- 353.
+
+16. **X. Li**, S. Ma, K. Wong, Evolving Spatial Clusters of Genomic Regions from High-Throughput Chromatin Conformation Capture data, **IEEE Transactions on NanoBioscience**,16(6) (2017), 400-407.
+
+17. Y. Wang, B. Liu, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Cancer Subtype Diagnosis, **IEEE Journal of Translational Engineering in Health and Medicine**, Accepted, 2019.
+
+
+18. **X. Li**, M. Yin, Modified Cuckoo search algorithm with self adaptive parameter method, **Information Sciences**, 2015, 298:80-97. (**IF=6.795**, Q1)
+
+19. Y. Wang, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data, **Information Sciences**, 2020, Accepted. (**IF=6.795**, Q1)
+
+20. T. Ma, Y. Wang\*, **X. Li\***, Convex Combination Multiple Populations Competitive Swarm Optimization for moving target search using UAVs, **Information Sciences**, 2023, Accepted. (**IF=8.233**, Q1)
 
 21. X. Wang, Y. Wang, K. Wong, **X. Li\***, A Self-adaptive Weighted Differential Evolution Approach for Large-scale Feature Selection, *Knowledge-based Systems*, 2021. (**IF=8.038**, Q1)
 
