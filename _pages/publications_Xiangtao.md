@@ -102,6 +102,8 @@ author_profile: true
 
 19. Y. Wang, Z. Ma, K. Wong, **X. Li\***, Nature-Inspired Multiobjective Patient Stratification from Cancer Gene Expression Data, *Information Sciences*, 2020, Accepted. (**IF=6.795**, Q1)
 
+20. T. Ma, Y. Wang\*, **X. Li\***, Convex Combination Multiple Populations Competitive Swarm Optimization for moving target search using UAVs, *Information Sciences*, 2023, Accepted. (**IF=8.233**, Q1)
+
 21. X. Wang, Y. Wang, K. Wong, **X. Li\***, A Self-adaptive Weighted Differential Evolution Approach for Large-scale Feature Selection, *Knowledge-based Systems*, 2021. (**IF=8.038**, Q1)
 
 23. H. Zhu, Y. Wang\*, **X. Li\***, UCAV Path Planning for Avoiding Obstacles using Cooperative Co-evolution Spider Monkey Optimization,*Knowledge-based Systems*, 2022. (**IF=8.038**, Q1)
