@@ -6,7 +6,7 @@ author_profile: true
 ---
 1. Z. Yu, Y. Su, Y. Lu, F. Wang, S. Zhang, Y. Chang, K. Wong\*, **X. Li\***, Topological Identification and Interpretation for Single-cell Gene Regulation Elucidation across Multiple Platforms using scMGCA, **Nature Communications**, 2023. (IF= 17.694, Q1)
 
-2. Y. Fan, Y. Wang, F. Wang, L. Huang, Y. Yang, K. Wong, **X. Li\***, Reliable Identification and Interpretation of Single-cell Molecular Heterogeneity and Transcriptional Regulation using Dynamic Ensemble Pruning, **Advanced Science**, 2023. (IF= 17.694, Q1)
+2. Y. Fan, Y. Wang, F. Wang, L. Huang, Y. Yang, K. Wong, **X. Li\***, Reliable Identification and Interpretation of Single-cell Molecular Heterogeneity and Transcriptional Regulation using Dynamic Ensemble Pruning, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
 2. Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li\***, K. Wong\*, Enabling Single-cell Drug Response Annotations from Bulk RNA- seq using SCAD, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
