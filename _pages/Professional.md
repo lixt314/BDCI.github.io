@@ -28,9 +28,13 @@ Cell Reports Methods
 
 Cell Reports Physical Science
 
+Genome Biology
+
 Bioinformatics
 
 Briefings in Bioinformatics
+
+PLoS Computational Biology
 
 IEEE Transactions on Evolutionary Computation
 
