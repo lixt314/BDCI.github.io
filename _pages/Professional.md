@@ -9,6 +9,8 @@ author_profile: true
 # Academic Editor:
 BMC Bioinformatics (2022~) (SCI Index, IF=3.327)
 
+BMC Genomics (2022~) (SCI Index, IF=4.558)
+
 Scientific Reports (2017~) (SCI Index, IF=4.259)
 
 Mini-Reviews in Medicinal Chemistry(2019~)  (SCI Index, IF=2.842)
