@@ -10,7 +10,10 @@ author_profile: true
 
 2. Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li\***, K. Wong\*, Enabling Single-cell Drug Response Annotations from Bulk RNA- seq using SCAD, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
-1. Y. Wang, Y. Zhu, S. Li, C. Bian, Y. Liang, K. Wong, **X. Li\***, scBGEDA: Deep Single-cell Clustering Analysis via a Dual Denoising Autoencoder with Bipartite Graph Ensemble Clustering, **Bioinformatics**, 2023. (**IF=6.931**,Q1) 
+1. Y. Wang, Y. Zhu, S. Li, C. Bian, Y. Liang, K. Wong, **X. Li\***, scBGEDA: Deep Single-cell Clustering Analysis via a Dual Denoising Autoencoder with Bipartite Graph Ensemble Clustering, **Bioinformatics**, 2023. (**IF=6.931**,Q1)
+
+2. M. Toseef, O. O. Petinrin, F. Wang, S. Rahaman, Z. Liu, **X. Li\***, K. Wong\*, Deep transfer learning for clinical decision-making
+based on high-throughput data: comprehensive survey with benchmark results, **Briefings in Bioinformatics**, 2023. (**IF=9.5**, Q1)
 
 3. Z. Hou, Y. Yang. Z. Ma, K. Wong, **X. Li\***, Learning the Protein Language of Proteome-wide Protein-protein Binding Sites via Explainable Ensemble Deep Learning, **Communications Biology**, 2022. (Q1)
 
