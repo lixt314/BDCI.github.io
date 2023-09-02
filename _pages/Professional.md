@@ -7,6 +7,8 @@ author_profile: true
 
 
 # Academic Editor:
+BMC Biology（2023～）（SCI Index, Top Journal）
+
 BMC Bioinformatics (2022~) (SCI Index, IF=3.327)
 
 BMC Genomics (2022~) (SCI Index, IF=4.558)
