@@ -17,10 +17,12 @@ author_profile: true
 
 1. Y. Wang, Y. Zhu, S. Li, C. Bian, Y. Liang, K. Wong, **X. Li\***, scBGEDA: Deep Single-cell Clustering Analysis via a Dual Denoising Autoencoder with Bipartite Graph Ensemble Clustering, **Bioinformatics**, 2023. (**IF=6.931**,Q1)
 
-2. M. Toseef, O. O. Petinrin, F. Wang, S. Rahaman, Z. Liu, **X. Li\***, K. Wong\*, Deep transfer learning for clinical decision-making
+2. P. Sun, S. Fan, S. Li, Y. Zhao, C. Lu\*, K. Wong, **X. Li\***, Automated Exploitation of Deep Learning for Cancer Patient Stratification across Multiple Types, **Bioinformatics**, 2023. (**IF=6.931**,Q1)
+
+3. M. Toseef, O. O. Petinrin, F. Wang, S. Rahaman, Z. Liu, **X. Li\***, K. Wong\*, Deep transfer learning for clinical decision-making
 based on high-throughput data: comprehensive survey with benchmark results, **Briefings in Bioinformatics**, 2023. (**IF=9.5**, Q1)
 
-3. Z. Hou, Y. Yang. Z. Ma, K. Wong, **X. Li\***, Learning the Protein Language of Proteome-wide Protein-protein Binding Sites via Explainable Ensemble Deep Learning, **Communications Biology**, 2022. (Q1)
+4. Z. Hou, Y. Yang. Z. Ma, K. Wong, **X. Li\***, Learning the Protein Language of Proteome-wide Protein-protein Binding Sites via Explainable Ensemble Deep Learning, **Communications Biology**, 2022. (Q1)
 
 1. Y. Wang, Z. Hou, Y. Yang, K. Wong, **X. Li\***, Genome-wide Identification and Characterization of DNA Enhancers with a Stacked Multivariate Fusion Framework, **PLOS Computational Biology**, 2022. (Q1)
 
