@@ -13,7 +13,7 @@ author_profile: true
 
 2. Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li\***, K. Wong\*, Enabling Single-cell Drug Response Annotations from Bulk RNA- seq using SCAD, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
-3. F. Wang, H. Alinejad-Rokny, J. Lin, T. Gao, X. Chen, L. Meng, **X. Li\***, K. Wong\*, A lightweight framework for chromatin loop detection on single-cell Hi-C, **Advanced Science**, 2023. (IF= 17.521, Q1)
+3. F. Wang, H. Alinejad-Rokny, J. Lin, T. Gao, X. Chen, L. Meng, **X. Li\***, K. Wong\*, A lightweight framework for chromatin loop detection at the Single‐Cell Level, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
 1. Y. Wang, Y. Zhu, S. Li, C. Bian, Y. Liang, K. Wong, **X. Li\***, scBGEDA: Deep Single-cell Clustering Analysis via a Dual Denoising Autoencoder with Bipartite Graph Ensemble Clustering, **Bioinformatics**, 2023. (**IF=6.931**,Q1)
 
