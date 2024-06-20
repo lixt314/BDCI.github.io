@@ -21,6 +21,8 @@ author_profile: true
 
 5. B. Zhang, Z. Hou, K. Wong, H. Zhu\*, **X. Li\***, SOFB is a Comprehensive Ensemble Deep Learning approach for Elucidating and Characterizing Protein-Nucleic-Acid-Binding Residues, **Communications Biology**, 2024. (Q1)
 
+6. Q. Qi, Y. Wang, Y. Huang, Y. Fan \*, **X. Li\***, PredGCN: A Pruning-enabled Gene-Cell Net for Automatic Cell Annotation of Single Cell Transcriptome Data, **Bioinformatics**, 2024. (**IF=6.931**,Q1)
+
 1. Y. Wang, Y. Zhu, S. Li, C. Bian, Y. Liang, K. Wong, **X. Li\***, scBGEDA: Deep Single-cell Clustering Analysis via a Dual Denoising Autoencoder with Bipartite Graph Ensemble Clustering, **Bioinformatics**, 2023. (**IF=6.931**,Q1)
 
 2. P. Sun, S. Fan, S. Li, Y. Zhao, C. Lu\*, K. Wong, **X. Li\***, Automated Exploitation of Deep Learning for Cancer Patient Stratification across Multiple Types, **Bioinformatics**, 2023. (**IF=6.931**,Q1)
@@ -49,8 +51,6 @@ based on high-throughput data: comprehensive survey with benchmark results, **Br
 3. Y. Yang, Z. Hou, Y. Wang, H. Ma, P. Sun, Z. Ma, K. Wong, **X. Li\***, HCRNet: High-throughput circRNA-Binding Event Identification from CLIP-seq Data using Deep Temporal Convolutional Network, **Briefings in Bioinformatics**, 2022. (**IF=11.622**, Q1)
 
 1. Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li\***, ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations, **Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)**, 2021. (Q1, **Oral**)
-
-20. Y. Wang, K. Wong, **X. Li\***, Exploring High-throughput Biomolecular Data with Multiobjective Robust Continuous Clustering, **Information Sciences**, 2021.  (**IF=6.795**, Q1)
 
 21. Y. Wang, Y. Yang, Z. Ma, K. Wong, **X. Li\***, EDCNN: Identification of Genome-Wide RNA-binding Proteins Using Evolutionary Deep Convolutional Neural Network, **Bioinformatics**, 2021. (**IF=6.937**, Q1)
 
