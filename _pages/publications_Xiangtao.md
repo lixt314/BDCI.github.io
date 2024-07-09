@@ -21,7 +21,9 @@ author_profile: true
 
 5. B. Zhang, Z. Hou, K. Wong, H. Zhu\*, **X. Li\***, SOFB is a Comprehensive Ensemble Deep Learning approach for Elucidating and Characterizing Protein-Nucleic-Acid-Binding Residues, **Communications Biology**, 2024. (Q1)
 
-6. Q. Qi, Y. Wang, Y. Huang, Y. Fan \*, **X. Li\***, PredGCN: A Pruning-enabled Gene-Cell Net for Automatic Cell Annotation of Single Cell Transcriptome Data, **Bioinformatics**, 2024. (**IF=6.931**,Q1)
+6. Y. Zhang, Y. Zhuo, K. Wong, **X. Li\***, Unraveling Spatial Domain Characterization in Spatially Resolved Transcriptomics with Robust Graph Contrastive Clustering, **Bioinformatics**, 2024. (**IF=6.931**,Q1)
+
+7. Q. Qi, Y. Wang, Y. Huang, Y. Fan \*, **X. Li\***, PredGCN: A Pruning-enabled Gene-Cell Net for Automatic Cell Annotation of Single Cell Transcriptome Data, **Bioinformatics**, 2024. (**IF=6.931**,Q1)
 
 1. Y. Wang, Y. Zhu, S. Li, C. Bian, Y. Liang, K. Wong, **X. Li\***, scBGEDA: Deep Single-cell Clustering Analysis via a Dual Denoising Autoencoder with Bipartite Graph Ensemble Clustering, **Bioinformatics**, 2023. (**IF=6.931**,Q1)
 
