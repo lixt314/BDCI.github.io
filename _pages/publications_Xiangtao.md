@@ -13,6 +13,8 @@ author_profile: true
 
 3. Y. Fan, Y. Wang, F. Wang, L. Huang, Y. Yang, K. Wong, **X. Li\***, Reliable Identification and Interpretation of Single-cell Molecular Heterogeneity and Transcriptional Regulation using Dynamic Ensemble Pruning, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
+4. Y. Yang, G. Li, K. Pan, W. Cao, **X. Li\***, Z. Zhang, Deciphering 3’ UTR Mediated Gene Regulation Using Interpretable Deep Representation Learning, **Advanced Science**, 2024. (IF= 17.521, Q1)
+
 2. Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li\***, K. Wong\*, Enabling Single-cell Drug Response Annotations from Bulk RNA- seq using SCAD, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
 3. F. Wang, H. Alinejad-Rokny, J. Lin, T. Gao, X. Chen, L. Meng, **X. Li\***, K. Wong\*, A lightweight framework for chromatin loop detection at the Single‐Cell Level, **Advanced Science**, 2023. (IF= 17.521, Q1)
