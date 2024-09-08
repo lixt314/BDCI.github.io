@@ -16,7 +16,7 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 **Recruiting: I am always looking for self-motivated Master and PhD students to do cutting edge research on Bioinformatics & applied deep learning. Each year, two PhD studentship (Only for bioinformatics) and four Master studentships (Only for bioinformatics) can be available. If interested, please email your full CV to me for consideration (E-mail: lixt314@jlu.edu.cn).**
 
 
-**博士与硕士招生简介**：研究领域涵盖生物信息学与深度学习。目前，我每年招收博士生两名（通常为硕博连读或本博连读），以及硕士生四名。
+**博士与硕士招生简介**：研究领域涵盖生物信息学与深度学习。目前，我每年招收博士生两名，以及硕士生四名。
 
 **保研**：可接受保研的学生。
 
