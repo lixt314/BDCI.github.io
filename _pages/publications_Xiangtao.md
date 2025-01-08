@@ -23,11 +23,14 @@ author_profile: true
 
 4. N. Chen, J. Yu, Z. Liu, L. Meng, **X. Li\***, K. Wong\*, Discovering DNA shape motifs with multiple DNA shape features: generalization, methods, and validation, **Nucleic Acids Research**, 2024, (IF = 14.9, Q1)
 
-5. B. Zhang, Z. Hou, K. Wong, H. Zhu\*, **X. Li\***, SOFB is a Comprehensive Ensemble Deep Learning approach for Elucidating and Characterizing Protein-Nucleic-Acid-Binding Residues, **Communications Biology**, 2024. (Q1)
+5. B. Yu, H. Zhu, Y. Wang, Y. Yang, Y. Huang\*, J. Zhang\*, K. Wong,  **X. Li\***, EnrichRBP: an automated and interpretable computational platform for predicting and analyzing RNA-binding protein events, **Bioinformatics**, 2024. (**IF=6.931**,Q1)
 
-6. Y. Zhang, Y. Zhuo, K. Wong, **X. Li\***, Unraveling Spatial Domain Characterization in Spatially Resolved Transcriptomics with Robust Graph Contrastive Clustering, **Bioinformatics**, 2024. (**IF=6.931**,Q1)
 
-7. Q. Qi, Y. Wang, Y. Huang, Y. Fan \*, **X. Li\***, PredGCN: A Pruning-enabled Gene-Cell Net for Automatic Cell Annotation of Single Cell Transcriptome Data, **Bioinformatics**, 2024. (**IF=6.931**,Q1)
+6. B. Zhang, Z. Hou, K. Wong, H. Zhu\*, **X. Li\***, SOFB is a Comprehensive Ensemble Deep Learning approach for Elucidating and Characterizing Protein-Nucleic-Acid-Binding Residues, **Communications Biology**, 2024. (Q1)
+
+7. Y. Zhang, Y. Zhuo, K. Wong, **X. Li\***, Unraveling Spatial Domain Characterization in Spatially Resolved Transcriptomics with Robust Graph Contrastive Clustering, **Bioinformatics**, 2024. (**IF=6.931**,Q1)
+
+8. Q. Qi, Y. Wang, Y. Huang, Y. Fan \*, **X. Li\***, PredGCN: A Pruning-enabled Gene-Cell Net for Automatic Cell Annotation of Single Cell Transcriptome Data, **Bioinformatics**, 2024. (**IF=6.931**,Q1)
 
 1. Y. Wang, Y. Zhu, S. Li, C. Bian, Y. Liang, K. Wong, **X. Li\***, scBGEDA: Deep Single-cell Clustering Analysis via a Dual Denoising Autoencoder with Bipartite Graph Ensemble Clustering, **Bioinformatics**, 2023. (**IF=6.931**,Q1)
 
