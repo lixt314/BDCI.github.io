@@ -5,7 +5,10 @@ permalink: /publications_Xiangtao/
 author_profile: true
 ---
 
-1. H. Zhu, Y. Yang, Y. Wang, F. Wang, Y. Huang, Y. Chang, K. Wong\*, **X. Li\***, Dynamic characterization and interpretation for protein–RNA interactions across diverse cellular conditions using HDRNet, **Nature Communications**, 2023. (IF= 17.694, Q1)
+
+1. G. Hao, Y. Fan, Z. Yu, Y. Su, H. Zhu, F. Wang, X. Chen, Y. Yang, G. Wang, K. Wong, **X. Li\***, Topological Identification and Interpretation for Single-cell Epigenetic Regulation Elucidation in Multi-tasks using scAGDE, **Nature Communications**, 2025.
+ 
+3. H. Zhu, Y. Yang, Y. Wang, F. Wang, Y. Huang, Y. Chang, K. Wong\*, **X. Li\***, Dynamic characterization and interpretation for protein–RNA interactions across diverse cellular conditions using HDRNet, **Nature Communications**, 2023. (IF= 17.694, Q1)
 
 1. Z. Yu, Y. Su, Y. Lu, F. Wang, S. Zhang, Y. Chang, K. Wong\*, **X. Li\***, Topological Identification and Interpretation for Single-cell Gene Regulation Elucidation across Multiple Platforms using scMGCA, **Nature Communications**, 2023. (IF= 17.694, Q1)
 
