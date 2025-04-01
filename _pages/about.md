@@ -13,10 +13,10 @@ I received the M.Eng, and Ph.D. degrees in computer science from Northeast Norma
 李向涛，吉林大学人工智能学院教授，国家级青年人才，吉林省优青，吉林省创新拔尖人才，连续三年（2020-2022年）入选斯坦福大学全球前 2%顶尖科学家榜单，主持国家自然科学面上基金和青年基金，吉林省青年和面上基金项目。以第一作者或通讯作者在学术期刊上发表相关论文约100篇，中科院一区及生物信息学顶级期刊约40篇，其中在顶级期刊Nature Communications、Advanced Science、Nucleic Acids Research上发表论文11篇；在生物信息学权威期刊发表论文21篇，包括Bioinformatics 6篇，PLoS Computational Biology 1篇，Briefings in Bioinformatics 12篇，Communications Biology 1篇；IEEE Trans系列期刊及CCF A类会议发表论文18篇，包括IEEE Transactions on Cybernetics 4篇，IEEE Transactions on Systems, Man, and Cybernetics: Systems 1篇，AAAI 2篇，IEEE/ACM Transactions on Computational Biology and Bioinformatics 7篇，IEEE Journal of Biomedical and Health Informatics 1篇，IEEE Transactions on NanoBioscience 2篇，IEEE Transactions on Engineering Management 2篇。
 
 
-**Recruiting: I am always looking for self-motivated Master and PhD students to do cutting edge research on Bioinformatics & applied deep learning. Each year, two PhD studentship (Only for bioinformatics) and four Master studentships (Only for bioinformatics) can be available. If interested, please email your full CV to me for consideration (E-mail: lixt314@jlu.edu.cn).**
+**Recruiting: I am always looking for self-motivated Master and PhD students to do cutting edge research on Bioinformatics & applied deep learning. Each year, two PhD studentship and four Master studentships can be available. If interested, please email your full CV to me for consideration (E-mail: lixt314@jlu.edu.cn).**
 
 
-**博士与硕士招生简介**：研究领域涵盖生物信息学与深度学习。**当前还有一名博士名额空余**。
+**博士与硕士招生简介**：研究领域涵盖生物信息学与深度学习。
 
 **保研**：可接受保研的学生。
 
