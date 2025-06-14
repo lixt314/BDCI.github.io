@@ -17,7 +17,7 @@ author_profile: true
 
 4. Y. Fan, Y. Wang, F. Wang, L. Huang, Y. Yang, K. Wong, **X. Li\***, Reliable Identification and Interpretation of Single-cell Molecular Heterogeneity and Transcriptional Regulation using Dynamic Ensemble Pruning, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
-5. W. Ma, F. Wang, Y. Fan, G. Hao, Y. Su, K. Wong, X. Li, DeepNanoHi-C: Deep Learning Enables Accurate Single-Cell Nanopore Long-read Data Analysis and 3D Genome Interpretation,  **Nucleic Acids Research**, 2025, (IF = 16.7, Q1)
+5. W. Ma, F. Wang, Y. Fan, G. Hao, Y. Su, K. Wong, **X. Li\***, DeepNanoHi-C: Deep Learning Enables Accurate Single-Cell Nanopore Long-read Data Analysis and 3D Genome Interpretation,  **Nucleic Acids Research**, 2025, (IF = 16.7, Q1)
 
 6. F. Wang, J. Lin, H. Alinejad-Rokny, W. MA, L. Meng, L. Huang, J. Yu, N. Chen, Y. Wang, Z. Yao, W. Xie, K. Wong\*, **X. Li\***, Unveiling multi-scale architectural features in single-cell Hi-C data using scCAFE, **Advanced Science**, 2023. (IF= 17.521, Q1)
 
