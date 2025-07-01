@@ -35,7 +35,7 @@ author_profile: true
 
 ---
 
-###Other peer‑reviewed journals ↕
+### Other peer‑reviewed journals
  
 #### Bioinformatics  
 - **2024** Y. Zhang, Z. Yu, K. Wong, **X. Li**\*, “Unraveling Spatial Domain Characterization in Spatially Resolved Transcriptomics with Robust Graph Contrastive Clustering,” **_Bioinformatics_** (2024).  
