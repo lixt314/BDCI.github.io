@@ -14,7 +14,7 @@ I am a Professor at the **School of Artificial Intelligence, Jilin University** 
 - **2020 – Present:** Professor & Principal Investigator, Jilin University  
 
 ## Research Highlights  
-My research bridges artificial intelligence and bioinformatics, focusing on cutting-edge AI for Science applications. My work addresses critical problems in single-cell and spatial transcriptomics data analysis, and protein–RNA interaction prediction, aiming to uncover new biological insights through advanced algorithms.
+Our group, grounded in computational methodologies, focuses on employing advanced deep-learning techniques to decode complex biological and biomedical datasets. Our contributions include: (1). Single-cell RNA-seq, Multi-omics, and Spatial transcriptomics: By harnessing state-of-the-art deep learning algorithms, our group has pioneered methods to analyze single-cell RNA sequencing data. Venturing further into multi-omics and spatial transcriptomics, we strive to uncover the intricate molecular layers within cells, shedding light on the spatial intricacies of transcriptional processes. (2). Protein-RNA Binding Predictions: An integral part of our research involves predicting Protein-RNA interactions. Utilizing deep learning methodologies, we have developed precise models that accurately predict these molecular dialogues, opening avenues for the discovery of innovative diagnostic markers and potential therapeutic strategies. 
 
 | Area | Representative Methods & Journals |
 |------|-----------------------------------|
