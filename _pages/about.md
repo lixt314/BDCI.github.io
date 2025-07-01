@@ -18,9 +18,9 @@ My research bridges artificial intelligence and bioinformatics, focusing on cutt
 
 | Area | Representative Methods & Journals |
 |------|-----------------------------------|
-| **Single-cell epigenetic regulation** | scAGDE, scCAFE — **_Nature Communications_**, **_Advanced Science_**, **_Nucleic Acids Research_** |
-| **Protein–RNA Interaction** | HDRNet, DeepNanoHi-C — **_Nature Communications_**, **_Nucleic Acids Research_** |
-| **Single-cell & Spatial Omics** | scMGCA, stDCL — published in **_Nature Communications_**, **_Advanced Science_** |
+| **Single-cell Epigenetic Regulation & Hi-C** | scAGDE, DeepNanoHi-C — **_Nature Communications_**, **_Advanced Science_**, **_Nucleic Acids Research_** |
+| **Protein–RNA Interaction** | HDRNet, 3UTRBERT — **_Nature Communications_**, **_Advanced Science_** |
+| **Single-cell & Spatial Omics** | scMGCA, stDCL — **_Nature Communications_**, **_Advanced Science_** |
 
 
 - **>160** peer-reviewed papers  
@@ -28,7 +28,7 @@ My research bridges artificial intelligence and bioinformatics, focusing on cutt
 - **>4,500** Google Scholar citations, **h-index 36** (July 2025)  
 
 ## Honors & Awards  
-- Stanford University **World’s Top 2 % Scientists** list (2020-2024)  
+- **World’s Top 2 % Scientists** list (2020-2024)  
 - **MIT Technology Review Innovators in Intelligent Computing**: Selected as one of the “China Innovators in Intelligent Computing” by MIT Technology Review
 - **National High-Level Young Talent Program**: Awarded through China’s national young talent initiative.
 - Jilin Provincial Innovative Talent: Recognized as an Innovative and Top-notch Talent of Jilin Province
