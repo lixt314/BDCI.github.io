@@ -22,28 +22,27 @@
 
 <footer class="page__footer">
 
-  <!-- 页脚文字 -->
-  <p style="margin:0.6rem 1rem;">
+  <!-- ① 版权文字 -->
+  <p style="margin:0.5rem 1rem;">
     © 2025 Xiangtao Li · Powered by Jekyll & AcademicPages ·
     <a href="https://lixt314.github.io/BDCI.github.io/sitemap.xml">Site Map</a>
   </p>
 
-  <!-- ① 直接在 footer 里写 CSS，作用域只影响下面这个盒子 -->
+  <!-- ② 内联 CSS：只作用于下面这个盒子 -->
   <style>
-    /* 让文字 + 地球一行显示；窄屏自动换行 */
-    .footer-flex {display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;}
-    /* 地球外层盒子：决定大小 */
-    #globe-box   {width:140px;height:140px;overflow:hidden;position:relative;}
-    /* 强制 inside canvas/iframe 填满盒子 */
+    .footer-flex   {display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;}
+    /* 调整这里的宽高即可改变大小 —— 例如 120px × 120px */
+    #globe-box     {width:120px;height:120px;overflow:hidden;position:relative;}
+    /* 强制脚本注入的 <canvas> / <iframe> 填满盒子而不溢出 */
     #globe-box canvas,
     #globe-box iframe {width:100%!important;height:100%!important;position:absolute;top:0;left:0;}
   </style>
 
-  <!-- ② 把文字和地球包进同一个 flex 容器 -->
+  <!-- ③ 把文字和地球包在同一个 flex 容器里 -->
   <div class="footer-flex" style="padding:0 1rem 1rem;">
-    <span><!-- 左侧可再放文字或留空 --></span>
+    <span><!-- 若需更多文字，可放这里；不需要就留空 --></span>
 
-    <!-- 地球 -->
+    <!-- 3-D visitor globe（Map My Visitors）-->
     <div id="globe-box">
          <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=JuEc0Vuu03WGPdIxnTkMlwW4DMWsMNE89aGofWa9N_o"></script>
     </div>
