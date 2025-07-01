@@ -44,17 +44,17 @@ author_profile: true
 - **2024** Y. Wang, H. Zhu, Y. Wang, Y. Yang, Y. Huang*, J. Zhang*, K. Wong, **X. Li***, “EnrichRBP: An Automated and Interpretable Computational Platform for Predicting and Analyzing RNA‑binding Protein Events,” *Bioinformatics* (2024).  
 - **2023** Y. Wang, Y. Zhu, S. Li, C. Bian, Y. Liang, K. Wong, **X. Li***, “scBGEDA: Deep Single‑cell Clustering Analysis via a Dual Denoising Autoencoder with Bipartite Graph Ensemble Clustering,” *Bioinformatics* (2023).  
 - **2024** Q. Qi, Y. Wang, Y. Huang, Y. Fan*, **X. Li***, “PredGCN: A Pruning‑enabled Gene–Cell Net for Automatic Cell Annotation of Single‑cell Transcriptome Data,” *Bioinformatics* (2024).  
-- **2023** P. Sun, S. Fan, S. Li, Y. Zhao, C. Lu★, K. Wong, **X. Li**★, “Automated Exploitation of Deep Learning for Cancer Patient Stratification across Multiple Types,” *Bioinformatics* (2023).  
-- **2022**  Y. Su, F. Wang, S. Zhang, Y. Liang, K. Wong, **X. Li**★, “scWMC: Weighted Matrix Completion‑based Imputation of scRNA‑seq Data via Prior Subspace Information,” *Bioinformatics* (2022).  
-- **2022** F. Lu, Z. Yu, Y. Wang, Z. Ma, K. Wong, **X. Li**★, “GMHCC: High‑throughput Analysis of Biomolecular Data using Graph‑based Multiple Hierarchical Consensus Clustering,” *Bioinformatics* (2022).  
-- **2021**  Y. Wang, Y. Yang, Z. Ma, K. Wong, **X. Li**★, “EDCNN: Identification of Genome‑wide RNA‑binding Proteins using Evolutionary Deep Convolutional Neural Network,” *Bioinformatics* (2021).  
-- **2019**  **X. Li**★, S. Zhang, K. Wong, “Single‑cell RNA‑seq Interpretations using Evolutionary Multiobjective Ensemble Pruning,” *Bioinformatics* (2019).
+- **2023** P. Sun, S. Fan, S. Li, Y. Zhao, C. Lu*, K. Wong, **X. Li***, “Automated Exploitation of Deep Learning for Cancer Patient Stratification across Multiple Types,” *Bioinformatics* (2023).  
+- **2022**  Y. Su, F. Wang, S. Zhang, Y. Liang, K. Wong, **X. Li***, “scWMC: Weighted Matrix Completion‑based Imputation of scRNA‑seq Data via Prior Subspace Information,” *Bioinformatics* (2022).  
+- **2022** F. Lu, Z. Yu, Y. Wang, Z. Ma, K. Wong, **X. Li***, “GMHCC: High‑throughput Analysis of Biomolecular Data using Graph‑based Multiple Hierarchical Consensus Clustering,” *Bioinformatics* (2022).  
+- **2021**  Y. Wang, Y. Yang, Z. Ma, K. Wong, **X. Li***, “EDCNN: Identification of Genome‑wide RNA‑binding Proteins using Evolutionary Deep Convolutional Neural Network,” *Bioinformatics* (2021).  
+- **2019**  **X. Li***, S. Zhang, K. Wong, “Single‑cell RNA‑seq Interpretations using Evolutionary Multiobjective Ensemble Pruning,” *Bioinformatics* (2019).
 
 #### Other Bioinformatics Journal
 - **2022** L. Huang, J. Lin, R. Liu, Z. Zhang, L. Meng, X. Chen, **X. Li***, K. Wong*, “CoaDTI: Multi‑modal Co‑attention‑based Framework for Drug–target Interaction Annotation,” *Briefings in Bioinformatics* (2022).  
 - **2022** Y. Yang, Z. Hou, Y. Wang, H. Ma, P. Sun, Z. Ma, K. Wong, **X. Li***, “HCRNet: High‑throughput circRNA–Binding Event Identification from CLIP‑seq Data using Deep Temporal Convolutional Network,” *Briefings in Bioinformatics* (2022).  
 - **2021** **X. Li***, S. Li, L. Huang, S. Zhang, K. Wong, “High‑throughput Single‑cell RNA‑seq Data Imputation and Characterization with Surrogate‑assisted Automated Deep Learning,” *Briefings in Bioinformatics* (2021).  
-- **2021** Z. Hou, Y. Yang, H. Li, K. Wong, **X. Li**★, “iDeepSubMito: Identification of Protein Sub‑mitochondrial Localization with Deep Learning,” *Briefings in Bioinformatics* (2021).  
+- **2021** Z. Hou, Y. Yang, H. Li, K. Wong, **X. Li***, “iDeepSubMito: Identification of Protein Sub‑mitochondrial Localization with Deep Learning,” *Briefings in Bioinformatics* (2021).  
 - **2021** Z. Yu, C. Bian, G. Liu, S. Zhang, K. Wong, **X. Li***, “Elucidating Transcriptomic Profiles from Single‑cell RNA‑seq Data using Nature‑Inspired Compressed Sensing,” *Briefings in Bioinformatics* (2021).  
 - **2021** **X. Li***, S. Zhang, K. Wong, “Deep Embedded Clustering with Multiple Objectives on scRNA‑seq Data,” *Briefings in Bioinformatics* (2021).  
 - **2020** Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li***, “Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest,” *Briefings in Bioinformatics* (2020).
