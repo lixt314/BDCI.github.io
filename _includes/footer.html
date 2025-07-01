@@ -22,18 +22,6 @@
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.</div>
 
-<style>
-  .globe-wrap {
-    max-width: 240px;      /* 设上限 */
-    margin: 1rem auto;     /* 居中并留空 */
-  }
-  .globe-wrap canvas,      /* MapMyVisitors 会注入 <canvas> */
-  .globe-wrap iframe {     /* 旧版本用 <iframe>；两者都兼容 */
-    width: 100% !important;
-    height: auto !important;
-  }
-</style>
-
-<div class="globe-wrap">
+<div style="width:260px;height:260px;margin:0 auto;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=uaTU96Q29Dd3dVWAFIO9Sjv0CHXXRZRtB7d1FGlevTk&cl=ffffff&w=a"></script>
 </div>
