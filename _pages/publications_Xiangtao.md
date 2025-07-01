@@ -11,7 +11,7 @@ author_profile: true
 - **h-index 36** (Google Scholar, July 2025)  
 - *Full list & metrics:* [Google Scholar](https://scholar.google.com/citations?hl=en&user=Il0-1BUAAAAJ&view_op=list_works&sortby=pubdate) · [ORCID](https://orcid.org/0000-0002-8716-9823)  
 
-> *Corresponding authors marked with “*”.
+> *Corresponding authors marked with “\*”.
 
 ---
 
@@ -66,5 +66,6 @@ author_profile: true
 - **2022** Y. Wang, Z. Hou, Y. Yang, K. Wong, **X. Li***, “Genome-wide Identification and Characterization of DNA Enhancers with a Stacked Multivariate Fusion Framework,” **_PLOS Computational Biology_** (2022).  
 - **2021** **X. Li***, S. Li, L. Huang, S. Zhang, K. Wong, “High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning,” **_Briefings in Bioinformatics_** (2021).  
 - **2022** Y. Cheng, Y. Su, Z. Yu, Y. Liang, K. Wong, **X. Li***, “Unsupervised Deep Embedded Fusion Representation of Single-cell Transcriptomics,” **_AAAI 2023 (Oral)_** (2022).  
-- **2021** Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li***, “ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations,” **_AAAI 2022 (Oral)_** (2021).  
+- **2021** Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li***, “ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations,” **_AAAI 2022 (Oral)_** (2021).
+- 
 <!-- (additional Communications Biology / Briefings in Bioinformatics / IEEE T-Cybernetics / etc.) -->
