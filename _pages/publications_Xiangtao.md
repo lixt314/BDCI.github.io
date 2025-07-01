@@ -70,5 +70,5 @@ author_profile: true
 - **2021** **X. Li***, S. Li, L. Huang, S. Zhang, K. Wong, *High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning*, *Briefings in Bioinformatics* (2021).  
 - **2022** Y. Cheng, Y. Su, Z. Yu, Y. Liang, K. Wong, **X. Li***, *Unsupervised Deep Embedded Fusion Representation of Single-cell Transcriptomics*, *AAAI 2023* (Oral) (2022).  
 - **2021** Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li***, *ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations*, *AAAI 2022* (Oral) (2021).
--… *(additional Communications Biology / Briefings in Bioinformatics / IEEE T‑Cybernetics / etc.**  
+- **(additional Communications Biology / Briefings in Bioinformatics / IEEE T‑Cybernetics / etc.**  
 
