@@ -1,0 +1,16 @@
+
+.footer-inner {
+  display: flex;
+  align-items: center;          /* 垂直居中 */
+  justify-content: space-between;
+  flex-wrap: wrap;              /* 小屏时自动换行 */
+  padding: 0.6rem 1rem;
+}
+
+
+#globe-box {
+  width: 160px;   /* 想再小就改这里 */
+  height: 160px;
+  transform: scale(0.9);   /* 0.9=90% 大小；可调 */
+  transform-origin: center center;
+}
