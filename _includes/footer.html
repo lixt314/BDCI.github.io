@@ -21,14 +21,35 @@
 </div>
 
 <footer class="page__footer">
-  <div class="footer-inner">
-    <span>© 2025 Xiangtao Li · Powered by Jekyll &amp; AcademicPages ·
-      <a href="https://lixt314.github.io/BDCI.github.io/sitemap.xml">Site Map</a>
-    </span>
 
-    <!-- visitor globe -->
+  <!-- 页脚文字 -->
+  <p style="margin:0.6rem 1rem;">
+    © 2025 Xiangtao Li · Powered by Jekyll & AcademicPages ·
+    <a href="https://lixt314.github.io/BDCI.github.io/sitemap.xml">Site Map</a>
+  </p>
+
+  <!-- ① 直接在 footer 里写 CSS，作用域只影响下面这个盒子 -->
+  <style>
+    /* 让文字 + 地球一行显示；窄屏自动换行 */
+    .footer-flex {display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;}
+    /* 地球外层盒子：决定大小 */
+    #globe-box   {width:140px;height:140px;overflow:hidden;position:relative;}
+    /* 强制 inside canvas/iframe 填满盒子 */
+    #globe-box canvas,
+    #globe-box iframe {width:100%!important;height:100%!important;position:absolute;top:0;left:0;}
+  </style>
+
+  <!-- ② 把文字和地球包进同一个 flex 容器 -->
+  <div class="footer-flex" style="padding:0 1rem 1rem;">
+    <span><!-- 左侧可再放文字或留空 --></span>
+
+    <!-- 地球 -->
     <div id="globe-box">
-      <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=JuEc0Vuu03WGPdIxnTkMlwW4DMWsMNE89aGofWa9N_o"></script>
+         <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=JuEc0Vuu03WGPdIxnTkMlwW4DMWsMNE89aGofWa9N_o"></script>
     </div>
   </div>
 </footer>
+
+
+
+
