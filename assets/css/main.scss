@@ -40,18 +40,3 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* 自定义：页脚文字与地球并排 + 缩小尺寸 */
-.footer-inner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  padding: 0.6rem 1rem;
-}
-
-#globe-box {
-  width: 160px;     /* 这里改大小 */
-  height: 160px;
-  transform: scale(0.9);
-  transform-origin: center center;
-}
