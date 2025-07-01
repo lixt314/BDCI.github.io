@@ -22,31 +22,25 @@
 
 <footer class="page__footer">
 
-  <!-- ① 版权文字 -->
-  <p style="margin:0.5rem 1rem;">
+  <!-- 版权 & 站点地图 -->
+  <p style="margin:0.4rem 1rem;">
     © 2025 Xiangtao Li · Powered by Jekyll & AcademicPages ·
     <a href="https://lixt314.github.io/BDCI.github.io/sitemap.xml">Site Map</a>
   </p>
 
-  <!-- ② 内联 CSS：只作用于下面这个盒子 -->
-  <style>
-    .footer-flex   {display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;}
-    /* 调整这里的宽高即可改变大小 —— 例如 120px × 120px */
-    #globe-box     {width:120px;height:120px;overflow:hidden;position:relative;}
-    /* 强制脚本注入的 <canvas> / <iframe> 填满盒子而不溢出 */
-    #globe-box canvas,
-    #globe-box iframe {width:100%!important;height:100%!important;position:absolute;top:0;left:0;}
-  </style>
-
-  <!-- ③ 把文字和地球包在同一个 flex 容器里 -->
-  <div class="footer-flex" style="padding:0 1rem 1rem;">
-    <span><!-- 若需更多文字，可放这里；不需要就留空 --></span>
-
-    <!-- 3-D visitor globe（Map My Visitors）-->
-    <div id="globe-box">
+  <!-- ▽▽ 只看下面这 3 行即可调整大小 ▽▽ -->
+  <div style="
+        /* 原始球体大约 400×400；不管它，整体再缩放 */
+        width:400px;height:400px;           /* 保持原始宽高 */
+        transform:scale(0.30);              /* 0.30=30% 大小，想更小再减 */
+        transform-origin:top right;         /* 从右上角收缩，不挡文字 */
+        overflow:hidden;                    /* 防止外溢 */
+        margin:0 1rem 1rem auto;            /* 靠右，下方留空 */
+      ">
          <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=JuEc0Vuu03WGPdIxnTkMlwW4DMWsMNE89aGofWa9N_o"></script>
-    </div>
   </div>
+  <!-- △△ 调尺寸只改 scale( ) 数字即可 △△ -->
+
 </footer>
 
 
