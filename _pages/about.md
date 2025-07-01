@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## About me
 ## Brief Bio  
 I am a Professor at the **School of Artificial Intelligence, Jilin University** working at the intersection of **artificial intelligence (AI)** and **computational biology**. I received my M.Eng. and Ph.D. degrees in Computer Science from Northeast Normal University in 2012 and 2015, respectively.  
 - **2015 – 2016:** Academic Visitor, University of Surrey, UK  
