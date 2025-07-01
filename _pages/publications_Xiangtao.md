@@ -56,15 +56,15 @@ author_profile: true
 - **2021** Z. Yu, C. Bian, G. Liu, S. Zhang, K. Wong, **X. Li**\*, “Elucidating Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Compressed Sensing,” **_Briefings in Bioinformatics_** (2021).  
 - **2021** **X. Li**\*, S. Zhang, K. Wong, “Deep Embedded Clustering with Multiple Objectives on scRNA-seq Data,” **_Briefings in Bioinformatics_** (2021).  
 - **2020** Y. Yang, S. Li, Y. Wang, K. Wong, **X. Li**\*, “Identification of Haploinsufficient Genes from Epigenomic Data using Deep Forest,” **_Briefings in Bioinformatics_** (2020).  
-- **2022** Z. Hou, Y. Yang, Z. Ma, K. Wong, **X. Li**\*, “Learning the Protein Language of Proteome-wide Protein–protein Binding Sites via Explainable Ensemble Deep Learning,” **_Communications Biology_** (2022).  
+- **2022** Z. Hou, Y. Yang, Z. Ma, K. Wong, **X. Li**\*, “Learning the Protein Language of Proteome-wide Protein–protein Binding Sites via Explainable Ensemble Deep Learning,” **_Communications Biology_** (2022).
+- **2022** Y. Wang, Z. Hou, Y. Yang, K. Wong, **X. Li**\*, “Genome-wide Identification and Characterization of DNA Enhancers with a Stacked Multivariate Fusion Framework,” **_PLOS Computational Biology_** (2022).  
+- **2021** **X. Li**\*, S. Li, L. Huang, S. Zhang, K. Wong, “High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning,” **_Briefings in Bioinformatics_** (2021).  
 
 #### IEEE Transactions & Other Q1 Journals
 - **2022** Y. Su, H. Zhu, K. Wong, Y. Chang, **X. Li**\*, “Hyperspectral Image Denoising via Weighted Multidirectional Low-rank Tensor Recovery,” **_IEEE Transactions on Cybernetics_** (2022).  
 - **2021** Y. Wang, **X. Li**\*, K. Wong, Y. Chang, S. Yang, “Evolutionary Multiobjective Clustering Algorithms with Ensemble for Patient Stratification,” **_IEEE Transactions on Cybernetics_** (2021).  
 - **2019** **X. Li**\*, S. Zhang, K. Wong, “Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data,” **_IEEE Transactions on Cybernetics_** (2019).  
 - **2018** **X. Li**\*, K. Wong, “Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification,” **_IEEE Transactions on Cybernetics_** (2018).  
-- **2022** Y. Wang, Z. Hou, Y. Yang, K. Wong, **X. Li**\*, “Genome-wide Identification and Characterization of DNA Enhancers with a Stacked Multivariate Fusion Framework,” **_PLOS Computational Biology_** (2022).  
-- **2021** **X. Li**\*, S. Li, L. Huang, S. Zhang, K. Wong, “High-throughput Single-cell RNA-seq Data Imputation and Characterization with Surrogate-assisted Automated Deep Learning,” **_Briefings in Bioinformatics_** (2021).  
 - **2022** Y. Cheng, Y. Su, Z. Yu, Y. Liang, K. Wong, **X. Li**\*, “Unsupervised Deep Embedded Fusion Representation of Single-cell Transcriptomics,” **_AAAI 2023 (Oral)_** (2022).  
 - **2021** Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li**\*, “ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations,” **_AAAI 2022 (Oral)_** (2021).
 - 
