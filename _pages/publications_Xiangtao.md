@@ -37,7 +37,7 @@ author_profile: true
 
 <details>
 <summary><strong>Other peer‑reviewed journals ↕</strong></summary>
-
+ 
 #### Bioinformatics  
 - **2024** Y. Zhang, Z. Yu, K. Wong, **X. Li**\*, “Unraveling Spatial Domain Characterization in Spatially Resolved Transcriptomics with Robust Graph Contrastive Clustering,” **_Bioinformatics_** (2024).  
 - **2024** Y. Wang, H. Zhu, Y. Wang, Y. Yang, Y. Huang\*, J. Zhang\*, K. Wong, **X. Li**\*, “EnrichRBP: An Automated and Interpretable Computational Platform for Predicting and Analyzing RNA-binding Protein Events,” **_Bioinformatics_** (2024).  
