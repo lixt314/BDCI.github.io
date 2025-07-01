@@ -23,7 +23,7 @@ My research bridges artificial intelligence and bioinformatics, focusing on cutt
 | **Single-cell & Spatial Omics** | scMGCA, stDCL — published in **_Nature Communications_**, **_Advanced Science_** |
 
 
-- **>160** peer-reviewed papers (2020-2025)  
+- **>160** peer-reviewed papers  
 - **12** papers in *Nature Communications*, *Advanced Science*, and *Nucleic Acids Research*  
 - **>4,500** Google Scholar citations, **h-index 36** (July 2025)  
 
@@ -39,6 +39,6 @@ My research bridges artificial intelligence and bioinformatics, focusing on cutt
 - Interpretable deep learning & graph neural networks  
 
 ## Recruitment: 
-Prof. Li is always looking for highly motivated Master’s and Ph.D. students to join his group and conduct cutting-edge research in bioinformatics and applied deep learning. Each year, approximately 2 Ph.D. studentships and 4 Master’s studentships are available. Outstanding undergraduates with exemption qualifications are also welcome. If you are interested in pursuing graduate studies under his supervision, please send your CV via email for consideration (Email: lixt314@jlu.edu.cn).
+Prof. Li is always looking for highly motivated Master’s and Ph.D. students to join his group and conduct cutting-edge research in bioinformatics and applied deep learning. Each year, approximately 2 Ph.D. studentships and 3 Master’s studentships are available. Outstanding undergraduates with exemption qualifications are also welcome. If you are interested in pursuing graduate studies under his supervision, please send your CV via email for consideration (Email: lixt314@jlu.edu.cn).
 
 
