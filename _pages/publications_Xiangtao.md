@@ -67,5 +67,4 @@ author_profile: true
 - **2018** **X. Li**\*, K. Wong, “Evolutionary Multi-objective Clustering and Its Applications to Patient Stratification,” **_IEEE Transactions on Cybernetics_** (2018).  
 - **2022** Y. Cheng, Y. Su, Z. Yu, Y. Liang, K. Wong, **X. Li**\*, “Unsupervised Deep Embedded Fusion Representation of Single-cell Transcriptomics,” **_AAAI 2023 (Oral)_** (2022).  
 - **2021** Z. Yu, Y. Lu, Y. Wang, F. Tang, K. Wong, **X. Li**\*, “ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations,” **_AAAI 2022 (Oral)_** (2021).
-- 
-<!-- (additional Communications Biology / Briefings in Bioinformatics / IEEE T-Cybernetics / etc.) -->
+
