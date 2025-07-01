@@ -20,10 +20,25 @@
   </ul>
 </div>
 
-<!-- 直径 120 像素的 3-D 访客地球 -->
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=JuEc0Vuu03WGPdIxnTkMlwW4DMWsMNE89aGofWa9N_o&size=120"></script>
+<footer class="page__footer" style="position:relative;">
 
+  <!-- 版权 + Site Map -->
+  <p style="margin:0.5rem 1rem;">
+    © 2025 Xiangtao Li · Powered by Jekyll & AcademicPages ·
+    <a href="https://lixt314.github.io/BDCI.github.io/sitemap.xml">Site Map</a>
+  </p>
 
+  <!-- 3-D Globe：固定 90 px，绝对定位到页脚右下 -->
+  <div style="
+        position:absolute;       /* 不参与页面排版 */
+        right:12px; bottom:10px; /* 贴紧页脚右下，可按需微调 */
+        width:90px; height:90px; /* 想更小就改这两行 */
+        overflow:hidden;         /* 防止脚本插入的 400px Canvas 外溢 */
+        z-index:10;">
+    <script async
+      <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=JuEc0Vuu03WGPdIxnTkMlwW4DMWsMNE89aGofWa9N_o"></script>
+    </script>
+  </div>
 
-
+</footer>
 
