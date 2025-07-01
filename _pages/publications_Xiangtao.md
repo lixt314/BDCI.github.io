@@ -35,8 +35,6 @@ author_profile: true
 
 ---
 
----
-
 <details>
 <summary><strong>Other peer‑reviewed journals ↕</strong></summary>
 
