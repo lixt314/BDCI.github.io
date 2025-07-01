@@ -41,3 +41,7 @@ My research bridges artificial intelligence and bioinformatics, focusing on cutt
 ## Recruitment: 
 Prof. Li is always looking for highly motivated Master’s and Ph.D. students to join his group and conduct cutting-edge research in bioinformatics and applied deep learning. Each year, approximately 2 Ph.D. studentships and 4 Master’s studentships are available. Outstanding undergraduates with exemption qualifications are also welcome. If you are interested in pursuing graduate studies under his supervision, please send your CV via email for consideration (Email: lixt314@jlu.edu.cn).
 
+<div style="width:260px;height:260px;margin:0 auto;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=uaTU96Q29Dd3dVWAFIO9Sjv0CHXXRZRtB7d1FGlevTk&cl=ffffff&w=a"></script>
+</div>
+
