@@ -1,22 +1,20 @@
 ---
 permalink: /
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-# About Me
-
 ## Brief Bio  
-I am a Professor at the **School of Artificial Intelligence, Jilin University** working at the intersection of **artificial intelligence (AI)** and **computational biology**. I received my M.Eng. and Ph.D. degrees in Computer Science from **Northeast Normal University** in 2012 and 2015, respectively.  
+I am a Professor at the **School of Artificial Intelligence, Jilin University** working at the intersection of **artificial intelligence (AI)** and **computational biology**. I received my M.Eng. and Ph.D. degrees in Computer Science from Northeast Normal University in 2012 and 2015, respectively.  
 - **2015 – 2016:** Academic Visitor, University of Surrey, UK  
 - **2017 – 2019:** Senior Research Associate, City University of Hong Kong  
 - **2020 – Present:** Professor & Principal Investigator, Jilin University  
 
 ## Research Highlights  
-My group develops machine-learning and optimization algorithms that advance genomics and health science. Representative contributions include:  
+My research bridges artificial intelligence and bioinformatics, focusing on cutting-edge AI for Science applications. My work addresses critical problems in single-cell and spatial transcriptomics data analysis, and protein–RNA interaction prediction, aiming to uncover new biological insights through advanced algorithms.
 
 | Area | Representative Methods & Journals |
 |------|-----------------------------------|
