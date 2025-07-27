@@ -33,6 +33,11 @@ Our group, grounded in computational methodologies, focuses on employing advance
 - **National High-Level Young Talent Program**: Awarded through China’s national young talent initiative.
 - Jilin Provincial Innovative Talent: Recognized as an Innovative and Top-notch Talent of Jilin Province
 
+## Editorial Board Memberships  
+- **Editorial Board Member**, *Genome Biology*  
+- **Editorial Board Member**, *Communications Biology*  
+- **Editorial Board Member**, *BMC Biology*
+
 ## Research Interests  
 - Single-cell and spatial transcriptomics  
 - Protein–RNA and 3D genome architecture  
