@@ -6,49 +6,24 @@ author_profile: true
 ---
 
 
-# Academic Editor:
-BMC Biology（2023～）（SCI Index, Top Journal）
+## Editorial Board Memberships  
+- **Editorial Board Member**, *Genome Biology*  
+- **Editorial Board Member**, *Communications Biology*  
+- **Editorial Board Member**, *BMC Biology*  
 
-BMC Bioinformatics (2022~) (SCI Index, IF=3.327)
-
-BMC Genomics (2022~) (SCI Index, IF=4.558)
-
-Scientific Reports (2017~) (SCI Index, IF=4.259)
-
-Mini-Reviews in Medicinal Chemistry(2019~)  (SCI Index, IF=2.842)
-
-
-# Reviewer:
-
-Nature Communications
-
-PNAS
-
-American Journal of Human Genetics (AJHG)
-
-Cell Genomics
-
-Cell Reports Methods
-
-Cell Reports Physical Science
-
-Genome Biology
-
-Bioinformatics
-
-Briefings in Bioinformatics
-
-PLoS Computational Biology
-
-IEEE Transactions on Evolutionary Computation
-
-IEEE Transactions on Engineering Management
-
-IEEE Transactions on Vehicular Technology
-
-IEEE Transactions on Microwave Theory and Techniques
-
-IEEE/ACM Transactions on Computational Biology and Bioinformatics
-
-IEEE Transactions on Systems, Man and Cybernetics: Systems
+## Reviewer For:  
+- **Nature Computational Science**  
+- **Nature Communications**  
+- **PNAS**  
+- **American Journal of Human Genetics (AJHG)**  
+- **Cell Genomics**  
+- **Cell Reports Methods**  
+- **Cell Reports Physical Science**  
+- **Genome Biology**  
+- **Bioinformatics**  
+- **Briefings in Bioinformatics**  
+- **PLoS Computational Biology**  
+- **IEEE Transactions on Evolutionary Computation**  
+- **IEEE Transactions on Engineering Management**  
+- **IEEE Transactions on Vehicular Technology** 
 
