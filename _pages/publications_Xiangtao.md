@@ -21,6 +21,7 @@ author_profile: true
 - **2023** Z. Yu, Y. Su, Y. Lu, F. Wang, S. Zhang, Y. Chang, K. Wong\*, **X. Li**\*, “Topological Identification and Interpretation for Single-cell Gene Regulation Elucidation across Multiple Platforms using scMGCA,” **_Nature Communications_** (2023).  
 
 ### 🔬 Advanced Science  
+- **2025** Y. Shi, Y. Su, Y. Cheng, K. Wong, Y. Wang\*,  **X. Li**\*, “Dynamic Synthesis of Multi-Modal Representations for CITE-seq Data Integration and Analysis,” **_Advanced Science_** (2025).  
 - **2025** F. Wang, J. Lin, H. Alinejad-Rokny, W. Ma, L. Meng, L. Huang, J. Yu, N. Chen, Y. Wang, Z. Yao, W. Xie, K. Wong\*, **X. Li**\*, “Unveiling Multi-scale Architectural Features in Single-cell Hi-C Data using scCAFE,” **_Advanced Science_** (2025).  
 - **2024** Y. Su, Z. Yu, Y. Yang, **X. Li**\*, “Distribution-agnostic Deep Learning Enables Accurate Single-Cell Data Recovery and Transcriptional Regulation Interpretation,” **_Advanced Science_** (2024).  
 - **2024** Y. Yang, G. Li, K. Pan, W. Cao, Z. Zhang\*, **X. Li**\*, “Deciphering 3′-UTR-Mediated Gene Regulation Using Interpretable Deep Representation Learning,” **_Advanced Science_** (2024).  
