@@ -15,7 +15,7 @@ author_profile: true
  
 ---
 
-### 🏆 Leading journal / Top journal / Top-tier journal
+### 🏆 Leading journal / Top journal
 - **2025** G. Hao, Y. Fan, Z. Yu, Y. Su, H. Zhu, F. Wang, X. Chen, Y. Yang, G. Wang, K. Wong, **X. Li**\*, “Topological Identification and Interpretation for Single-cell Epigenetic Regulation Elucidation in Multi-tasks using scAGDE,” **_Nature Communications_** (2025).  
 - **2023** H. Zhu, Y. Yang, Y. Wang, F. Wang, Y. Huang, Y. Chang, K. Wong\*, **X. Li**\*, “Dynamic Characterization and Interpretation for Protein–RNA Interactions across Diverse Cellular Conditions using HDRNet,” **_Nature Communications_** (2023).  
 - **2023** Z. Yu, Y. Su, Y. Lu, F. Wang, S. Zhang, Y. Chang, K. Wong\*, **X. Li**\*, “Topological Identification and Interpretation for Single-cell Gene Regulation Elucidation across Multiple Platforms using scMGCA,” **_Nature Communications_** (2023).
