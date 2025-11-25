@@ -8,19 +8,20 @@ author_profile: true
 ## At-a-Glance  
 - **160 +** peer-reviewed articles 
 - **100 +** first-/corresponding-author papers  
-- **h-index 36** (Google Scholar, July 2025)  
+- **h-index 38** (Google Scholar, July 2025)  
 - *Full list & metrics:* [Google Scholar](https://scholar.google.com/citations?hl=en&user=Il0-1BUAAAAJ&view_op=list_works&sortby=pubdate) · [ORCID](https://orcid.org/0000-0002-8716-9823)  
 
 > *Corresponding authors marked with “\*”.
  
 ---
 
-### 🏆 Nature Communications  
+### 🏆 Authoritative Journal
 - **2025** G. Hao, Y. Fan, Z. Yu, Y. Su, H. Zhu, F. Wang, X. Chen, Y. Yang, G. Wang, K. Wong, **X. Li**\*, “Topological Identification and Interpretation for Single-cell Epigenetic Regulation Elucidation in Multi-tasks using scAGDE,” **_Nature Communications_** (2025).  
 - **2023** H. Zhu, Y. Yang, Y. Wang, F. Wang, Y. Huang, Y. Chang, K. Wong\*, **X. Li**\*, “Dynamic Characterization and Interpretation for Protein–RNA Interactions across Diverse Cellular Conditions using HDRNet,” **_Nature Communications_** (2023).  
-- **2023** Z. Yu, Y. Su, Y. Lu, F. Wang, S. Zhang, Y. Chang, K. Wong\*, **X. Li**\*, “Topological Identification and Interpretation for Single-cell Gene Regulation Elucidation across Multiple Platforms using scMGCA,” **_Nature Communications_** (2023).  
-
-### 🔬 Advanced Science  
+- **2023** Z. Yu, Y. Su, Y. Lu, F. Wang, S. Zhang, Y. Chang, K. Wong\*, **X. Li**\*, “Topological Identification and Interpretation for Single-cell Gene Regulation Elucidation across Multiple Platforms using scMGCA,” **_Nature Communications_** (2023).
+- **2025** W. Ma, F. Wang, Y. Fan, G. Hao, Y. Su, K. Wong, **X. Li**\*, “DeepNanoHi-C: Deep Learning Enables Accurate Single-Cell Nanopore Long-read Data Analysis and 3D Genome Interpretation,” **_Nucleic Acids Research_** (2025).  
+- **2024** N. Chen, J. Yu, Z. Liu, L. Meng, **X. Li**\*, K. Wong\*, “Discovering DNA Shape Motifs with Multiple DNA Shape Features: Generalization, Methods, and Validation,” **_Nucleic Acids Research_** (2024).
+- **2025** Y. Cheng, Y. Su, Y. Fan, Y. Yang, X. Chen, F. Wang, K. Wong, **X. Li**\*, “Aligned Cross-modal Integration and Regulatory Heterogeneity Characterization of Single-Cell Multiomic Data with Deep Contrastive Learning,” **_Genome Medicine_** (2025).  
 - **2025** Y. Shi, Y. Su, Y. Cheng, K. Wong, Y. Wang\*,  **X. Li**\*, “Dynamic Synthesis of Multi-Modal Representations for CITE-seq Data Integration and Analysis,” **_Advanced Science_** (2025).  
 - **2025** F. Wang, J. Lin, H. Alinejad-Rokny, W. Ma, L. Meng, L. Huang, J. Yu, N. Chen, Y. Wang, Z. Yao, W. Xie, K. Wong\*, **X. Li**\*, “Unveiling Multi-scale Architectural Features in Single-cell Hi-C Data using scCAFE,” **_Advanced Science_** (2025).  
 - **2024** Y. Su, Z. Yu, Y. Yang, **X. Li**\*, “Distribution-agnostic Deep Learning Enables Accurate Single-Cell Data Recovery and Transcriptional Regulation Interpretation,” **_Advanced Science_** (2024).  
@@ -29,10 +30,7 @@ author_profile: true
 - **2023** Y. Fan, Y. Wang, F. Wang, L. Huang, Y. Yang, K. Wong, **X. Li**\*, “Reliable Identification and Interpretation of Single-cell Molecular Heterogeneity and Transcriptional Regulation using Dynamic Ensemble Pruning,” **_Advanced Science_** (2023).  
 - **2023** Z. Zheng, J. Chen, X. Chen, L. Huang, W. Xie, Q. Lin, **X. Li**\*, K. Wong\*, “Enabling Single-cell Drug Response Annotations from Bulk RNA-seq using SCAD,” **_Advanced Science_** (2023).  
 - **2023** F. Wang, H. Alinejad-Rokny, J. Lin, T. Gao, X. Chen, L. Meng, **X. Li**\*, K. Wong\*, “A Lightweight Framework for Chromatin Loop Detection on Single-cell Hi-C,” **_Advanced Science_** (2023).  
-
-### 🧬 Nucleic Acids Research  
-- **2025** W. Ma, F. Wang, Y. Fan, G. Hao, Y. Su, K. Wong, **X. Li**\*, “DeepNanoHi-C: Deep Learning Enables Accurate Single-Cell Nanopore Long-read Data Analysis and 3D Genome Interpretation,” **_Nucleic Acids Research_** (2025).  
-- **2024** N. Chen, J. Yu, Z. Liu, L. Meng, **X. Li**\*, K. Wong\*, “Discovering DNA Shape Motifs with Multiple DNA Shape Features: Generalization, Methods, and Validation,” **_Nucleic Acids Research_** (2024).  
+ 
 
 ---
 
