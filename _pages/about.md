@@ -20,11 +20,11 @@ Our group, grounded in computational methodologies, focuses on employing advance
 |------|-----------------------------------|
 | **Single-cell Epigenetic Regulation & Hi-C** | scAGDE, DeepNanoHi-C — **_Nature Communications_**, **_Advanced Science_**, **_Nucleic Acids Research_** |
 | **Protein–RNA Interaction** | HDRNet, 3UTRBERT — **_Nature Communications_**, **_Advanced Science_** |
-| **Single-cell & Spatial Omics** | scMGCA, stDCL — **_Nature Communications_**, **_Advanced Science_**, **_Genome Medicine_** |
+| **Single-cell & Spatial Omics** | scMGCA, stDCL — **_Nature Communications_**, **_Advanced Science_**, **_Nucleic Acids Research_**, **_Genome Medicine_** |
 
 
 - **>160** peer-reviewed papers  
-- **14** papers in *Nature Communications*, *Advanced Science*, *Nucleic Acids Research*, *Genome Medicine*
+- **15** papers in *Nature Communications*, *Advanced Science*, *Nucleic Acids Research*, *Genome Medicine*
 - **>4,900** Google Scholar citations, **h-index 38**  
 
 ## Honors & Awards  
