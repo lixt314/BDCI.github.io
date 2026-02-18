@@ -25,7 +25,7 @@ Our group, grounded in computational methodologies, focuses on employing advance
 
 - **>160** peer-reviewed papers  
 - **17** papers in *Nature Communications*, *Advanced Science*, *Nucleic Acids Research*, *Genome Medicine*
-- **>5,000** Google Scholar citations, **h-index 38**  
+- **>5,000** Google Scholar citations, **h-index 39**  
 
 ## Honors & Awards  
 - **World’s Top 2 % Scientists** list (2020-2024)  
