@@ -16,6 +16,7 @@ author_profile: true
 ---
 
 ### 🏆 Leading journal / Top journal
+- **2026** Y. Fan, Y. Su,G. Hao, F. Wang, X. Chen, K. Wong, **X. Li**\*, “Orthogonal Disentanglement of Single-Cell Multi-Omics Reveals Private and Shared Drivers of Tissue Development and Pathogenesis,” **_PNAS_** (2026). 
 - **2026** X. Zhang, Z. Yu, G. Hao, Q.Yao, X. Chen, L. LIU, Y. Hu, K. Wong, **X. Li**\*, “Quantitative Characterization and Interpretation of Rare Spatial and Transcriptomic Heterogeneity from Spatial Omics using GARDEN,” **_Nature Communications_** (2026).  
 - **2025** G. Hao, Y. Fan, Z. Yu, Y. Su, H. Zhu, F. Wang, X. Chen, Y. Yang, G. Wang, K. Wong, **X. Li**\*, “Topological Identification and Interpretation for Single-cell Epigenetic Regulation Elucidation in Multi-tasks using scAGDE,” **_Nature Communications_** (2025).  
 - **2023** H. Zhu, Y. Yang, Y. Wang, F. Wang, Y. Huang, Y. Chang, K. Wong\*, **X. Li**\*, “Dynamic Characterization and Interpretation for Protein–RNA Interactions across Diverse Cellular Conditions using HDRNet,” **_Nature Communications_** (2023).  
