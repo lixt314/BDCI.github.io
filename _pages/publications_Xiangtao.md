@@ -13,7 +13,7 @@ author_profile: true
 
 > *Corresponding authors marked with “\*”.
  
----
+--- 
 
 ### 🏆 Leading journal / Top journal
 - **2026** Y. Fan, Y. Su,G. Hao, F. Wang, X. Chen, K. Wong, **X. Li**\*, “Orthogonal Disentanglement of Single-Cell Multi-Omics Reveals Private and Shared Drivers of Tissue Development and Pathogenesis,” **_PNAS_** (2026). 
