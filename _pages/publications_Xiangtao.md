@@ -16,8 +16,8 @@ author_profile: true
 --- 
 
 ### 🏆 Leading journal / Top journal
-- **2026** Y. Wang, Z. Zhou, W. Liu, P. Zhang, Y. Cheng, Y. Su, F. Wang, X. Chen, Ka-Chun Wong, **X. Li**\*, "Interpretable Modality-Aware Mapping of Gene Regulation in Single-cell Multiomics with scMAGCA,” **_Nature Communications_** (2026). 
-- **2026** Y. Wang, H. Zhu, G. Hao, Y. Su, Z. Yu, Y. Yang, F. Wang, X. Chen, Ka-Chun Wong, **X. Li**\*, "Bridging Sequence–Structure Motifs and Genetic Variants for Genome-wide Dynamic RNA–Protein Interaction Profiling,” **_Nature Communications_** (2026). 
+- **2026** Y. Wang, Z. Zhou, W. Liu, P. Zhang, Y. Cheng, Y. Su, F. Wang, X. Chen, K. Wong, **X. Li**\*, "Interpretable Modality-Aware Mapping of Gene Regulation in Single-cell Multiomics with scMAGCA,” **_Nature Communications_** (2026). 
+- **2026** Y. Wang, H. Zhu, G. Hao, Y. Su, Z. Yu, Y. Yang, F. Wang, X. Chen, K. Wong, **X. Li**\*, "Bridging Sequence–Structure Motifs and Genetic Variants for Genome-wide Dynamic RNA–Protein Interaction Profiling,” **_Nature Communications_** (2026). 
 - **2026** Y. Fan, Y. Su,G. Hao, F. Wang, X. Chen, K. Wong, **X. Li**\*, “Orthogonal Disentanglement of Single-Cell Multi-Omics Reveals Private and Shared Drivers of Tissue Development and Pathogenesis,” **_PNAS_** (2026). 
 - **2026** X. Zhang, Z. Yu, G. Hao, Q.Yao, X. Chen, L. LIU, Y. Hu, K. Wong, **X. Li**\*, “Robust Characterization and Interpretation of Rare Pathogenic Cell Populations from Spatial Omics using GARDEN,” **_Nature Communications_** (2026).  
 - **2025** G. Hao, Y. Fan, Z. Yu, Y. Su, H. Zhu, F. Wang, X. Chen, Y. Yang, G. Wang, K. Wong, **X. Li**\*, “Topological Identification and Interpretation for Single-cell Epigenetic Regulation Elucidation in Multi-tasks using scAGDE,” **_Nature Communications_** (2025).  
