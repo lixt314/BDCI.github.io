@@ -16,6 +16,7 @@ author_profile: true
 --- 
 
 ### 🏆 Leading journal / Top journal
+- **2026** T. Lu, L. Cho, Z. Qiu, Y. Wang, W. Niu, Y. Leung, Y. Wang, H. Zhang, W. Chang, M. Tanveer, Z. Zhang, **X. Li**\*, K. Wong*, "Depression and anxiety characterization and detection with multimodal deep learning,” **_Nature Mental Health_** (2026). 
 - **2026** Y. Wang, Z. Zhou, W. Liu, P. Zhang, Y. Cheng, Y. Su, F. Wang, X. Chen, K. Wong, **X. Li**\*, "Interpretable Modality-Aware Mapping of Gene Regulation in Single-cell Multiomics with scMAGCA,” **_Nature Communications_** (2026). 
 - **2026** Y. Wang, H. Zhu, G. Hao, Y. Su, Z. Yu, Y. Yang, F. Wang, X. Chen, K. Wong, **X. Li**\*, "Bridging Sequence–Structure Motifs and Genetic Variants for Genome-wide Dynamic RNA–Protein Interaction Profiling,” **_Nature Communications_** (2026). 
 - **2026** Y. Fan, Y. Su,G. Hao, F. Wang, X. Chen, K. Wong, **X. Li**\*, “Orthogonal Disentanglement of Single-Cell Multi-Omics Reveals Private and Shared Drivers of Tissue Development and Pathogenesis,” **_PNAS_** (2026). 
