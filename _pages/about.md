@@ -44,6 +44,22 @@ Our group, grounded in computational methodologies, focuses on employing advance
 - Interpretable deep learning & graph neural networks  
 
 ## Recruitment: 
-Prof. Li is always looking for highly motivated Master’s and Ph.D. students to join his group and conduct cutting-edge research in bioinformatics and applied deep learning. Each year, approximately 2 Ph.D. studentships and 3 Master’s studentships are available. Outstanding undergraduates with exemption qualifications are also welcome. If you are interested in pursuing graduate studies under his supervision, please send your CV via email for consideration (Email: lixt314@jlu.edu.cn).
+Prof. Li is always looking for highly motivated Master’s and Ph.D. students to join his group and conduct cutting-edge research in bioinformatics and applied deep learning. Each year, approximately 2 Ph.D. studentships and 3 Master’s studentships are available. Outstanding undergraduates with exemption qualifications are also welcome. If you are interested in pursuing graduate studies under his supervision, please send your CV via email for consideration (Email: lixt314@jlu.edu.cn). 
+
+##【博士/硕士招生 | 2027年9月入学】
+
+## 目前，博士生名额仅剩 1个；硕士生仍有 推免名额，欢迎有志于计算生物学、人工智能与生命科学交叉研究的优秀同学联系。
+
+## 课题组主要研究方向包括：
+单细胞与空间组学数据分析
+多组学整合与生物医学大模型
+
+## 欢迎具有以下背景的同学申请：
+计算机、人工智能、数学、统计学、生物信息学、生物医学工程、基础医学、生命科学等相关专业背景。具有编程能力、机器学习/深度学习基础、组学数据分析经验者优先。
+
+有意申请的同学请将个人简历、成绩单、科研经历简介发送至：lixt314@jlu.edu.cn
+邮件主题请注明：博士/硕士申请 + 姓名 + 学校 + 专业
+
+
 
 
