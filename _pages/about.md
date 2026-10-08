@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Brief Bio  
-I am a Professor at the **School of Artificial Intelligence, Jilin University** working at the intersection of **artificial intelligence (AI)** and **computational biology**. I received my M.Eng. and Ph.D. degrees in Computer Science from Northeast Normal University in 2012 and 2015, respectively.  
+I am the Dean of the **School of Information Science and Technology at Northeast Normal University** and a Professor at the **School of Artificial Intelligence, Jilin University**. My research lies at the intersection of **artificial intelligence (AI) and computational biology**. I received my M.Eng. and Ph.D. degrees in Computer Science from Northeast Normal University in 2012 and 2015, respectively.
 - **2015 – 2016:** Academic Visitor, University of Surrey, UK  
 - **2017 – 2019:** Senior Research Associate, City University of Hong Kong  
 - **2020 – Present:** Professor & Principal Investigator, Jilin University  
